@@ -1,0 +1,1201 @@
+Claim_ID,Patient_ID,Insurance_Provider,Claim_Amount,Approved_Amount,Claim_Status,Submission_Date,Payment_Date,Denial_Reason,Department,State,Payment_Days,Aging_Bucket,Denial_Flag
+C1000,P2000,Aetna,2306,2284,Approved,2024-02-22,2024-04-06,,Cardiology,California,44.0,31-60 Days,0
+C1001,P2001,BlueCross,544,390,Approved,2024-04-29,2024-06-10,,Neurology,Texas,42.0,31-60 Days,0
+C1002,P2002,Aetna,4764,4763,Approved,2024-08-17,2024-09-13,,Radiology,Florida,27.0,0-30 Days,0
+C1003,P2003,UnitedHealth,2576,2553,Approved,2024-06-21,2024-07-07,,Neurology,California,16.0,0-30 Days,0
+C1004,P2004,Humana,3117,2980,Approved,2024-01-23,2024-03-02,,Cardiology,California,39.0,31-60 Days,0
+C1005,P2005,Aetna,4822,4675,Approved,2024-11-17,2024-12-20,,Neurology,Texas,33.0,31-60 Days,0
+C1006,P2006,UnitedHealth,2166,0,Denied,2024-02-10,,Coverage Issue,Cardiology,Texas,760.0,90+ Days,1
+C1007,P2007,Aetna,4014,3920,Approved,2024-07-05,2024-07-25,,Neurology,California,20.0,0-30 Days,0
+C1008,P2008,Cigna,884,698,Approved,2024-03-28,2024-05-11,,Orthopedics,California,44.0,31-60 Days,0
+C1009,P2009,UnitedHealth,3408,3352,Approved,2024-11-23,2025-01-07,,Orthopedics,New York,45.0,31-60 Days,0
+C1010,P2010,Cigna,562,0,Denied,2024-07-24,,Coding Error,Cardiology,Florida,595.0,90+ Days,1
+C1011,P2011,Aetna,2877,2713,Approved,2024-09-12,2024-10-17,,Orthopedics,Illinois,35.0,31-60 Days,0
+C1012,P2012,Humana,1443,1376,Approved,2024-10-14,2024-11-27,,Orthopedics,California,44.0,31-60 Days,0
+C1013,P2013,BlueCross,3571,3445,Approved,2024-03-11,2024-04-22,,Neurology,Illinois,42.0,31-60 Days,0
+C1014,P2014,Aetna,1552,1400,Approved,2024-12-14,2025-01-20,,Cardiology,Texas,37.0,31-60 Days,0
+C1015,P2015,Aetna,4134,3960,Approved,2024-10-10,2024-10-20,,Neurology,New York,10.0,0-30 Days,0
+C1016,P2016,Aetna,3086,2970,Approved,2024-08-10,2024-08-30,,Radiology,California,20.0,0-30 Days,0
+C1017,P2017,Aetna,1763,1600,Approved,2024-02-24,2024-03-24,,Emergency,Illinois,29.0,0-30 Days,0
+C1018,P2018,BlueCross,1552,1353,Approved,2024-03-23,2024-05-06,,Radiology,Florida,44.0,31-60 Days,0
+C1019,P2019,BlueCross,2955,2877,Approved,2024-02-27,2024-03-31,,Cardiology,Illinois,33.0,31-60 Days,0
+C1020,P2020,UnitedHealth,4947,0,Pending,2024-02-13,,,Cardiology,Florida,757.0,90+ Days,0
+C1021,P2021,Humana,1330,1288,Approved,2024-08-31,2024-10-15,,Cardiology,Illinois,45.0,31-60 Days,0
+C1022,P2022,Cigna,3766,0,Pending,2024-10-03,,,Radiology,Illinois,524.0,90+ Days,0
+C1023,P2023,UnitedHealth,3359,3329,Approved,2024-09-21,2024-10-29,,Emergency,New York,38.0,31-60 Days,0
+C1024,P2024,UnitedHealth,3069,2919,Approved,2024-10-10,2024-11-03,,Orthopedics,Texas,24.0,0-30 Days,0
+C1025,P2025,UnitedHealth,782,764,Approved,2024-01-17,2024-02-17,,Cardiology,Texas,31.0,31-60 Days,0
+C1026,P2026,BlueCross,4276,4214,Approved,2024-03-08,2024-04-17,,Orthopedics,California,40.0,31-60 Days,0
+C1027,P2027,Humana,1072,964,Approved,2024-08-08,2024-09-09,,Neurology,Florida,32.0,31-60 Days,0
+C1028,P2028,Humana,1106,1043,Approved,2024-06-22,2024-07-08,,Neurology,Texas,16.0,0-30 Days,0
+C1029,P2029,UnitedHealth,3975,3857,Approved,2024-04-03,2024-04-30,,Orthopedics,Illinois,27.0,0-30 Days,0
+C1030,P2030,UnitedHealth,4808,4805,Approved,2024-11-29,2025-01-12,,Cardiology,New York,44.0,31-60 Days,0
+C1031,P2031,Aetna,3629,3614,Approved,2024-04-19,2024-05-24,,Orthopedics,Florida,35.0,31-60 Days,0
+C1032,P2032,UnitedHealth,3498,3390,Approved,2024-08-20,2024-09-17,,Neurology,Texas,28.0,0-30 Days,0
+C1033,P2033,BlueCross,1855,1840,Approved,2024-01-30,2024-03-14,,Neurology,Florida,44.0,31-60 Days,0
+C1034,P2034,Cigna,4205,4191,Approved,2024-09-28,2024-10-18,,Cardiology,Texas,20.0,0-30 Days,0
+C1035,P2035,BlueCross,861,758,Approved,2024-12-11,2025-01-05,,Cardiology,Florida,25.0,0-30 Days,0
+C1036,P2036,Aetna,625,545,Approved,2024-08-02,2024-09-14,,Radiology,Florida,43.0,31-60 Days,0
+C1037,P2037,Cigna,2255,2138,Approved,2024-03-08,2024-04-06,,Orthopedics,California,29.0,0-30 Days,0
+C1038,P2038,Cigna,4054,4036,Approved,2024-10-15,2024-10-31,,Cardiology,Texas,16.0,0-30 Days,0
+C1039,P2039,BlueCross,2472,2410,Approved,2024-06-27,2024-07-11,,Orthopedics,Illinois,14.0,0-30 Days,0
+C1040,P2040,Cigna,3889,0,Denied,2024-12-26,,Coding Error,Emergency,Florida,440.0,90+ Days,1
+C1041,P2041,BlueCross,4843,4809,Approved,2024-12-05,2024-12-21,,Radiology,Texas,16.0,0-30 Days,0
+C1042,P2042,Cigna,4832,4649,Approved,2024-05-24,2024-06-16,,Cardiology,Texas,23.0,0-30 Days,0
+C1043,P2043,Cigna,4440,4278,Approved,2024-01-27,2024-02-11,,Orthopedics,California,15.0,0-30 Days,0
+C1044,P2044,Humana,329,288,Approved,2024-03-07,2024-04-02,,Emergency,Texas,26.0,0-30 Days,0
+C1045,P2045,Humana,4894,4755,Approved,2024-02-08,2024-02-27,,Radiology,New York,19.0,0-30 Days,0
+C1046,P2046,Aetna,4826,4748,Approved,2024-03-06,2024-03-18,,Emergency,Illinois,12.0,0-30 Days,0
+C1047,P2047,Cigna,2020,0,Denied,2024-12-07,,Missing Documents,Cardiology,California,459.0,90+ Days,1
+C1048,P2048,Cigna,1566,0,Pending,2024-05-01,,,Radiology,New York,679.0,90+ Days,0
+C1049,P2049,UnitedHealth,503,332,Approved,2024-06-19,2024-07-25,,Orthopedics,New York,36.0,31-60 Days,0
+C1050,P2050,UnitedHealth,1185,1129,Approved,2024-01-20,2024-02-29,,Emergency,Florida,40.0,31-60 Days,0
+C1051,P2051,UnitedHealth,2800,0,Denied,2024-04-26,,Coverage Issue,Neurology,California,684.0,90+ Days,1
+C1052,P2052,Aetna,2989,2900,Approved,2024-02-05,2024-03-03,,Orthopedics,New York,27.0,0-30 Days,0
+C1053,P2053,BlueCross,3012,0,Pending,2024-02-29,,,Neurology,Illinois,741.0,90+ Days,0
+C1054,P2054,Cigna,2474,2386,Approved,2024-11-01,2024-12-08,,Orthopedics,Illinois,37.0,31-60 Days,0
+C1055,P2055,Cigna,4489,4424,Approved,2024-10-22,2024-11-13,,Neurology,Illinois,22.0,0-30 Days,0
+C1056,P2056,Aetna,4559,0,Pending,2024-10-02,,,Neurology,Texas,525.0,90+ Days,0
+C1057,P2057,UnitedHealth,873,0,Pending,2024-06-18,,,Emergency,New York,631.0,90+ Days,0
+C1058,P2058,BlueCross,2760,2677,Approved,2024-12-07,2025-01-12,,Emergency,Texas,36.0,31-60 Days,0
+C1059,P2059,Humana,1342,1169,Approved,2024-12-06,2025-01-09,,Emergency,Illinois,34.0,31-60 Days,0
+C1060,P2060,UnitedHealth,2765,2692,Approved,2024-01-01,2024-01-30,,Radiology,Illinois,29.0,0-30 Days,0
+C1061,P2061,UnitedHealth,2939,2809,Approved,2024-08-14,2024-09-06,,Neurology,Illinois,23.0,0-30 Days,0
+C1062,P2062,Humana,2624,2601,Approved,2024-11-20,2024-12-21,,Orthopedics,Texas,31.0,31-60 Days,0
+C1063,P2063,UnitedHealth,1931,1810,Approved,2024-01-24,2024-02-18,,Emergency,Florida,25.0,0-30 Days,0
+C1064,P2064,BlueCross,3695,0,Pending,2024-10-21,,,Cardiology,New York,506.0,90+ Days,0
+C1065,P2065,UnitedHealth,3573,3381,Approved,2024-12-01,2024-12-11,,Neurology,New York,10.0,0-30 Days,0
+C1066,P2066,Aetna,1740,0,Denied,2024-12-22,,Duplicate Claim,Neurology,Florida,444.0,90+ Days,1
+C1067,P2067,Humana,2341,0,Pending,2024-03-03,,,Cardiology,Illinois,738.0,90+ Days,0
+C1068,P2068,Humana,4651,0,Pending,2024-10-31,,,Orthopedics,New York,496.0,90+ Days,0
+C1069,P2069,Cigna,4435,4395,Approved,2024-10-07,2024-11-14,,Neurology,Illinois,38.0,31-60 Days,0
+C1070,P2070,Humana,2325,0,Denied,2024-05-21,,Duplicate Claim,Neurology,California,659.0,90+ Days,1
+C1071,P2071,Humana,3903,3834,Approved,2024-05-26,2024-06-20,,Orthopedics,California,25.0,0-30 Days,0
+C1072,P2072,Cigna,960,783,Approved,2024-04-28,2024-06-01,,Emergency,Illinois,34.0,31-60 Days,0
+C1073,P2073,UnitedHealth,3698,3592,Approved,2024-10-04,2024-11-12,,Orthopedics,Texas,39.0,31-60 Days,0
+C1074,P2074,Aetna,3490,0,Pending,2024-10-26,,,Orthopedics,New York,501.0,90+ Days,0
+C1075,P2075,Aetna,4207,4015,Approved,2024-06-29,2024-07-28,,Radiology,New York,29.0,0-30 Days,0
+C1076,P2076,Humana,4773,0,Denied,2024-04-22,,Authorization Required,Neurology,Illinois,688.0,90+ Days,1
+C1077,P2077,UnitedHealth,4278,4093,Approved,2024-06-21,2024-07-26,,Emergency,New York,35.0,31-60 Days,0
+C1078,P2078,UnitedHealth,4675,4654,Approved,2024-07-20,2024-07-31,,Neurology,Florida,11.0,0-30 Days,0
+C1079,P2079,Humana,1788,1734,Approved,2024-07-13,2024-08-12,,Orthopedics,New York,30.0,0-30 Days,0
+C1080,P2080,Humana,3405,3385,Approved,2024-08-03,2024-08-29,,Emergency,California,26.0,0-30 Days,0
+C1081,P2081,Humana,726,0,Pending,2024-06-28,,,Cardiology,Illinois,621.0,90+ Days,0
+C1082,P2082,UnitedHealth,554,0,Pending,2024-04-12,,,Cardiology,Texas,698.0,90+ Days,0
+C1083,P2083,Aetna,2254,2110,Approved,2024-12-08,2024-12-25,,Radiology,Florida,17.0,0-30 Days,0
+C1084,P2084,UnitedHealth,3321,3122,Approved,2024-11-06,2024-11-23,,Neurology,California,17.0,0-30 Days,0
+C1085,P2085,UnitedHealth,510,0,Pending,2024-10-21,,,Emergency,Texas,506.0,90+ Days,0
+C1086,P2086,Humana,922,896,Approved,2024-11-17,2024-12-12,,Neurology,Florida,25.0,0-30 Days,0
+C1087,P2087,Cigna,4936,0,Denied,2024-06-26,,Duplicate Claim,Radiology,Texas,623.0,90+ Days,1
+C1088,P2088,Humana,4444,4319,Approved,2024-01-07,2024-02-12,,Emergency,Texas,36.0,31-60 Days,0
+C1089,P2089,Aetna,4066,0,Denied,2024-08-10,,Coverage Issue,Neurology,California,578.0,90+ Days,1
+C1090,P2090,BlueCross,4708,0,Denied,2024-08-26,,Authorization Required,Emergency,Illinois,562.0,90+ Days,1
+C1091,P2091,BlueCross,2311,0,Denied,2024-02-14,,Coding Error,Emergency,California,756.0,90+ Days,1
+C1092,P2092,Humana,4968,4961,Approved,2024-07-13,2024-08-13,,Orthopedics,New York,31.0,31-60 Days,0
+C1093,P2093,Humana,4294,4223,Approved,2024-05-12,2024-06-12,,Emergency,Florida,31.0,31-60 Days,0
+C1094,P2094,BlueCross,383,322,Approved,2024-04-07,2024-04-22,,Emergency,Illinois,15.0,0-30 Days,0
+C1095,P2095,Humana,2268,0,Denied,2024-11-26,,Authorization Required,Neurology,Illinois,470.0,90+ Days,1
+C1096,P2096,Humana,2710,2632,Approved,2024-12-20,2025-01-14,,Cardiology,Texas,25.0,0-30 Days,0
+C1097,P2097,BlueCross,4834,4750,Approved,2024-08-05,2024-09-19,,Emergency,New York,45.0,31-60 Days,0
+C1098,P2098,Cigna,2811,2731,Approved,2024-03-02,2024-03-24,,Neurology,California,22.0,0-30 Days,0
+C1099,P2099,Aetna,1869,1684,Approved,2024-09-04,2024-10-01,,Radiology,Florida,27.0,0-30 Days,0
+C1100,P2100,BlueCross,2618,0,Pending,2024-04-09,,,Radiology,Illinois,701.0,90+ Days,0
+C1101,P2101,Cigna,1769,1737,Approved,2024-12-28,2025-02-10,,Orthopedics,California,44.0,31-60 Days,0
+C1102,P2102,Cigna,4833,4807,Approved,2024-03-05,2024-04-15,,Cardiology,Texas,41.0,31-60 Days,0
+C1103,P2103,Aetna,4145,4132,Approved,2024-06-23,2024-07-14,,Radiology,California,21.0,0-30 Days,0
+C1104,P2104,Cigna,835,797,Approved,2024-02-07,2024-02-20,,Neurology,Texas,13.0,0-30 Days,0
+C1105,P2105,UnitedHealth,997,0,Pending,2024-03-01,,,Radiology,California,740.0,90+ Days,0
+C1106,P2106,BlueCross,2148,0,Denied,2024-07-13,,Authorization Required,Neurology,Illinois,606.0,90+ Days,1
+C1107,P2107,Humana,3812,3656,Approved,2024-11-13,2024-11-26,,Emergency,Illinois,13.0,0-30 Days,0
+C1108,P2108,Aetna,2467,0,Denied,2024-03-21,,Coverage Issue,Orthopedics,Florida,720.0,90+ Days,1
+C1109,P2109,UnitedHealth,1582,1508,Approved,2024-08-18,2024-09-27,,Radiology,Texas,40.0,31-60 Days,0
+C1110,P2110,Aetna,2616,0,Denied,2024-08-20,,Missing Documents,Orthopedics,California,568.0,90+ Days,1
+C1111,P2111,UnitedHealth,1920,1755,Approved,2024-10-05,2024-10-29,,Emergency,Illinois,24.0,0-30 Days,0
+C1112,P2112,UnitedHealth,884,772,Approved,2024-06-06,2024-07-04,,Emergency,Florida,28.0,0-30 Days,0
+C1113,P2113,Aetna,3597,0,Pending,2024-09-13,,,Neurology,California,544.0,90+ Days,0
+C1114,P2114,BlueCross,958,804,Approved,2024-08-09,2024-09-08,,Neurology,New York,30.0,0-30 Days,0
+C1115,P2115,Cigna,2175,0,Pending,2024-10-21,,,Cardiology,Texas,506.0,90+ Days,0
+C1116,P2116,BlueCross,629,0,Denied,2024-03-30,,Authorization Required,Cardiology,California,711.0,90+ Days,1
+C1117,P2117,BlueCross,1786,0,Pending,2024-08-11,,,Neurology,California,577.0,90+ Days,0
+C1118,P2118,Humana,3150,3109,Approved,2024-06-13,2024-06-29,,Cardiology,New York,16.0,0-30 Days,0
+C1119,P2119,Cigna,2661,0,Denied,2024-07-24,,Duplicate Claim,Neurology,New York,595.0,90+ Days,1
+C1120,P2120,Aetna,2876,2745,Approved,2024-02-29,2024-04-04,,Neurology,Texas,35.0,31-60 Days,0
+C1121,P2121,Aetna,3685,3526,Approved,2024-09-22,2024-10-25,,Radiology,New York,33.0,31-60 Days,0
+C1122,P2122,Humana,1967,1855,Approved,2024-03-08,2024-04-05,,Neurology,Texas,28.0,0-30 Days,0
+C1123,P2123,Humana,2260,0,Denied,2024-06-08,,Duplicate Claim,Cardiology,Texas,641.0,90+ Days,1
+C1124,P2124,Aetna,1063,1033,Approved,2024-02-28,2024-04-07,,Radiology,New York,39.0,31-60 Days,0
+C1125,P2125,UnitedHealth,4468,0,Denied,2024-07-31,,Authorization Required,Neurology,California,588.0,90+ Days,1
+C1126,P2126,Humana,4815,4624,Approved,2024-04-07,2024-05-19,,Orthopedics,New York,42.0,31-60 Days,0
+C1127,P2127,UnitedHealth,3699,3699,Approved,2024-09-16,2024-10-13,,Cardiology,California,27.0,0-30 Days,0
+C1128,P2128,Cigna,4311,0,Pending,2024-08-16,,,Emergency,Illinois,572.0,90+ Days,0
+C1129,P2129,BlueCross,3023,2907,Approved,2024-10-05,2024-11-08,,Neurology,California,34.0,31-60 Days,0
+C1130,P2130,Cigna,4984,4903,Approved,2024-07-29,2024-08-10,,Orthopedics,Florida,12.0,0-30 Days,0
+C1131,P2131,Humana,1546,1418,Approved,2024-01-19,2024-02-06,,Neurology,New York,18.0,0-30 Days,0
+C1132,P2132,BlueCross,3906,3722,Approved,2024-08-21,2024-08-31,,Emergency,Texas,10.0,0-30 Days,0
+C1133,P2133,UnitedHealth,912,753,Approved,2024-05-15,2024-06-15,,Neurology,Florida,31.0,31-60 Days,0
+C1134,P2134,Humana,4671,4533,Approved,2024-06-11,2024-07-22,,Cardiology,California,41.0,31-60 Days,0
+C1135,P2135,Aetna,2223,2032,Approved,2024-05-27,2024-06-20,,Radiology,Texas,24.0,0-30 Days,0
+C1136,P2136,Aetna,1123,1116,Approved,2024-12-21,2025-01-19,,Neurology,Texas,29.0,0-30 Days,0
+C1137,P2137,Aetna,2703,2641,Approved,2024-08-08,2024-08-27,,Emergency,Texas,19.0,0-30 Days,0
+C1138,P2138,BlueCross,1775,1617,Approved,2024-02-10,2024-03-15,,Neurology,Illinois,34.0,31-60 Days,0
+C1139,P2139,UnitedHealth,1472,1355,Approved,2024-11-22,2024-12-18,,Neurology,Illinois,26.0,0-30 Days,0
+C1140,P2140,Cigna,2656,0,Denied,2024-03-21,,Missing Documents,Cardiology,New York,720.0,90+ Days,1
+C1141,P2141,Humana,2750,2634,Approved,2024-08-05,2024-08-31,,Emergency,Illinois,26.0,0-30 Days,0
+C1142,P2142,Cigna,4258,4111,Approved,2024-07-14,2024-08-15,,Orthopedics,New York,32.0,31-60 Days,0
+C1143,P2143,Cigna,3542,3387,Approved,2024-10-16,2024-10-29,,Emergency,Texas,13.0,0-30 Days,0
+C1144,P2144,Humana,3186,3013,Approved,2024-04-07,2024-05-03,,Emergency,Florida,26.0,0-30 Days,0
+C1145,P2145,UnitedHealth,2830,0,Denied,2024-01-18,,Duplicate Claim,Cardiology,Texas,783.0,90+ Days,1
+C1146,P2146,Cigna,2717,2666,Approved,2024-07-31,2024-08-21,,Orthopedics,Texas,21.0,0-30 Days,0
+C1147,P2147,UnitedHealth,4648,4583,Approved,2024-05-19,2024-06-08,,Radiology,California,20.0,0-30 Days,0
+C1148,P2148,Humana,1243,1050,Approved,2024-02-08,2024-02-27,,Emergency,California,19.0,0-30 Days,0
+C1149,P2149,UnitedHealth,3296,3229,Approved,2024-07-21,2024-07-31,,Neurology,Illinois,10.0,0-30 Days,0
+C1150,P2150,BlueCross,3319,0,Denied,2024-12-10,,Coding Error,Cardiology,New York,456.0,90+ Days,1
+C1151,P2151,BlueCross,1187,0,Denied,2024-08-29,,Missing Documents,Neurology,California,559.0,90+ Days,1
+C1152,P2152,BlueCross,2113,1934,Approved,2024-11-21,2024-12-30,,Radiology,California,39.0,31-60 Days,0
+C1153,P2153,Cigna,1445,1319,Approved,2024-01-20,2024-02-18,,Neurology,Texas,29.0,0-30 Days,0
+C1154,P2154,Aetna,4703,4532,Approved,2024-08-20,2024-09-22,,Cardiology,Florida,33.0,31-60 Days,0
+C1155,P2155,BlueCross,1565,0,Pending,2024-12-01,,,Neurology,Illinois,465.0,90+ Days,0
+C1156,P2156,Aetna,3643,0,Pending,2024-05-23,,,Neurology,Illinois,657.0,90+ Days,0
+C1157,P2157,Aetna,3932,3907,Approved,2024-04-30,2024-06-02,,Emergency,Florida,33.0,31-60 Days,0
+C1158,P2158,Cigna,796,680,Approved,2024-04-07,2024-04-24,,Radiology,California,17.0,0-30 Days,0
+C1159,P2159,Aetna,474,442,Approved,2024-06-19,2024-07-14,,Orthopedics,Illinois,25.0,0-30 Days,0
+C1160,P2160,BlueCross,4840,4756,Approved,2024-04-20,2024-05-14,,Orthopedics,Texas,24.0,0-30 Days,0
+C1161,P2161,UnitedHealth,2571,0,Pending,2024-03-15,,,Radiology,Texas,726.0,90+ Days,0
+C1162,P2162,UnitedHealth,1729,1726,Approved,2024-01-14,2024-02-01,,Radiology,California,18.0,0-30 Days,0
+C1163,P2163,Cigna,2952,2920,Approved,2024-05-15,2024-05-28,,Orthopedics,Illinois,13.0,0-30 Days,0
+C1164,P2164,Humana,820,669,Approved,2024-07-04,2024-08-15,,Radiology,Texas,42.0,31-60 Days,0
+C1165,P2165,Aetna,2114,0,Pending,2024-01-23,,,Neurology,Illinois,778.0,90+ Days,0
+C1166,P2166,BlueCross,555,446,Approved,2024-09-02,2024-10-07,,Emergency,New York,35.0,31-60 Days,0
+C1167,P2167,Aetna,902,0,Pending,2024-06-13,,,Neurology,New York,636.0,90+ Days,0
+C1168,P2168,BlueCross,1333,1151,Approved,2024-11-20,2025-01-04,,Orthopedics,Texas,45.0,31-60 Days,0
+C1169,P2169,Cigna,4646,4621,Approved,2024-09-15,2024-10-22,,Neurology,Illinois,37.0,31-60 Days,0
+C1170,P2170,Aetna,3823,3737,Approved,2024-04-26,2024-06-01,,Radiology,Florida,36.0,31-60 Days,0
+C1171,P2171,Humana,1078,983,Approved,2024-06-09,2024-07-05,,Neurology,New York,26.0,0-30 Days,0
+C1172,P2172,UnitedHealth,1047,0,Denied,2024-02-17,,Authorization Required,Neurology,Texas,753.0,90+ Days,1
+C1173,P2173,Aetna,4857,4773,Approved,2024-10-14,2024-11-28,,Emergency,Florida,45.0,31-60 Days,0
+C1174,P2174,Aetna,3764,0,Pending,2024-01-27,,,Neurology,California,774.0,90+ Days,0
+C1175,P2175,Cigna,3180,3141,Approved,2024-09-16,2024-10-09,,Radiology,California,23.0,0-30 Days,0
+C1176,P2176,Humana,3168,0,Denied,2024-07-07,,Missing Documents,Orthopedics,Texas,612.0,90+ Days,1
+C1177,P2177,Cigna,3815,0,Denied,2024-11-14,,Duplicate Claim,Radiology,Florida,482.0,90+ Days,1
+C1178,P2178,BlueCross,2490,2404,Approved,2024-05-19,2024-06-17,,Cardiology,Illinois,29.0,0-30 Days,0
+C1179,P2179,Cigna,1473,1437,Approved,2024-07-24,2024-08-07,,Cardiology,Florida,14.0,0-30 Days,0
+C1180,P2180,Aetna,2062,2022,Approved,2024-08-20,2024-09-20,,Cardiology,Illinois,31.0,31-60 Days,0
+C1181,P2181,Cigna,4949,4909,Approved,2024-01-27,2024-02-15,,Emergency,California,19.0,0-30 Days,0
+C1182,P2182,BlueCross,2529,2374,Approved,2024-08-05,2024-09-15,,Cardiology,Texas,41.0,31-60 Days,0
+C1183,P2183,Humana,2065,0,Denied,2024-02-28,,Coding Error,Neurology,California,742.0,90+ Days,1
+C1184,P2184,Humana,4286,4230,Approved,2024-06-06,2024-06-18,,Cardiology,California,12.0,0-30 Days,0
+C1185,P2185,Humana,362,167,Approved,2024-04-18,2024-05-06,,Radiology,Texas,18.0,0-30 Days,0
+C1186,P2186,Cigna,1282,1249,Approved,2024-08-08,2024-08-29,,Emergency,California,21.0,0-30 Days,0
+C1187,P2187,Humana,4398,4380,Approved,2024-12-08,2025-01-09,,Radiology,Florida,32.0,31-60 Days,0
+C1188,P2188,Humana,453,306,Approved,2024-02-09,2024-03-10,,Cardiology,New York,30.0,0-30 Days,0
+C1189,P2189,Humana,3721,3638,Approved,2024-07-26,2024-08-06,,Radiology,New York,11.0,0-30 Days,0
+C1190,P2190,UnitedHealth,3264,3153,Approved,2024-02-24,2024-03-20,,Radiology,New York,25.0,0-30 Days,0
+C1191,P2191,BlueCross,944,888,Approved,2024-06-07,2024-07-08,,Neurology,Illinois,31.0,31-60 Days,0
+C1192,P2192,Cigna,4481,4432,Approved,2024-09-28,2024-11-09,,Orthopedics,Texas,42.0,31-60 Days,0
+C1193,P2193,Cigna,2235,2191,Approved,2024-05-11,2024-06-02,,Emergency,Florida,22.0,0-30 Days,0
+C1194,P2194,BlueCross,1751,0,Pending,2024-11-17,,,Orthopedics,Texas,479.0,90+ Days,0
+C1195,P2195,Humana,3977,0,Denied,2024-10-16,,Duplicate Claim,Neurology,Illinois,511.0,90+ Days,1
+C1196,P2196,Cigna,3902,3832,Approved,2024-08-14,2024-09-12,,Emergency,Florida,29.0,0-30 Days,0
+C1197,P2197,BlueCross,4456,4447,Approved,2024-08-24,2024-10-01,,Cardiology,California,38.0,31-60 Days,0
+C1198,P2198,Aetna,928,830,Approved,2024-02-16,2024-03-29,,Emergency,California,42.0,31-60 Days,0
+C1199,P2199,Humana,636,554,Approved,2024-10-19,2024-11-10,,Radiology,Illinois,22.0,0-30 Days,0
+C1200,P2200,BlueCross,1535,0,Pending,2024-08-18,,,Neurology,Illinois,570.0,90+ Days,0
+C1201,P2201,Aetna,4433,4252,Approved,2024-01-21,2024-02-15,,Emergency,Texas,25.0,0-30 Days,0
+C1202,P2202,Humana,4582,4510,Approved,2024-07-05,2024-08-07,,Neurology,Illinois,33.0,31-60 Days,0
+C1203,P2203,Humana,728,0,Denied,2024-11-27,,Coding Error,Neurology,California,469.0,90+ Days,1
+C1204,P2204,Aetna,4870,0,Denied,2024-05-25,,Coding Error,Emergency,Texas,655.0,90+ Days,1
+C1205,P2205,BlueCross,967,888,Approved,2024-03-13,2024-04-14,,Orthopedics,California,32.0,31-60 Days,0
+C1206,P2206,Humana,994,962,Approved,2024-07-11,2024-08-11,,Orthopedics,Illinois,31.0,31-60 Days,0
+C1207,P2207,BlueCross,4465,4419,Approved,2024-07-04,2024-08-02,,Cardiology,New York,29.0,0-30 Days,0
+C1208,P2208,UnitedHealth,1872,1853,Approved,2024-03-11,2024-03-30,,Emergency,New York,19.0,0-30 Days,0
+C1209,P2209,Cigna,4721,0,Denied,2024-09-26,,Missing Documents,Cardiology,Illinois,531.0,90+ Days,1
+C1210,P2210,Cigna,3386,3202,Approved,2024-04-02,2024-04-22,,Radiology,Florida,20.0,0-30 Days,0
+C1211,P2211,Humana,3284,0,Denied,2024-05-01,,Authorization Required,Cardiology,New York,679.0,90+ Days,1
+C1212,P2212,BlueCross,2216,2167,Approved,2024-06-07,2024-07-17,,Emergency,New York,40.0,31-60 Days,0
+C1213,P2213,Cigna,4082,0,Denied,2024-07-14,,Duplicate Claim,Radiology,New York,605.0,90+ Days,1
+C1214,P2214,BlueCross,1935,0,Denied,2024-03-11,,Coding Error,Neurology,Florida,730.0,90+ Days,1
+C1215,P2215,Aetna,4842,0,Pending,2024-12-30,,,Neurology,California,436.0,90+ Days,0
+C1216,P2216,BlueCross,987,0,Denied,2024-05-19,,Authorization Required,Cardiology,California,661.0,90+ Days,1
+C1217,P2217,BlueCross,1051,0,Pending,2024-04-23,,,Orthopedics,New York,687.0,90+ Days,0
+C1218,P2218,Humana,3698,3638,Approved,2024-09-14,2024-10-17,,Emergency,Texas,33.0,31-60 Days,0
+C1219,P2219,Humana,2139,2102,Approved,2024-02-20,2024-03-22,,Cardiology,California,31.0,31-60 Days,0
+C1220,P2220,UnitedHealth,4170,0,Denied,2024-03-12,,Authorization Required,Cardiology,California,729.0,90+ Days,1
+C1221,P2221,Humana,949,809,Approved,2024-04-20,2024-05-09,,Radiology,Texas,19.0,0-30 Days,0
+C1222,P2222,BlueCross,1210,0,Denied,2024-05-01,,Coding Error,Radiology,New York,679.0,90+ Days,1
+C1223,P2223,Aetna,3739,3723,Approved,2024-11-14,2024-12-23,,Cardiology,Florida,39.0,31-60 Days,0
+C1224,P2224,Aetna,4691,4508,Approved,2024-09-20,2024-10-15,,Neurology,Illinois,25.0,0-30 Days,0
+C1225,P2225,UnitedHealth,312,265,Approved,2024-05-03,2024-06-08,,Emergency,New York,36.0,31-60 Days,0
+C1226,P2226,Aetna,854,0,Pending,2024-10-05,,,Radiology,California,522.0,90+ Days,0
+C1227,P2227,BlueCross,466,304,Approved,2024-08-28,2024-09-09,,Radiology,Illinois,12.0,0-30 Days,0
+C1228,P2228,Humana,433,372,Approved,2024-02-04,2024-03-07,,Emergency,California,32.0,31-60 Days,0
+C1229,P2229,Aetna,1392,1228,Approved,2024-10-06,2024-11-06,,Radiology,California,31.0,31-60 Days,0
+C1230,P2230,UnitedHealth,1793,0,Denied,2024-02-02,,Authorization Required,Neurology,New York,768.0,90+ Days,1
+C1231,P2231,Aetna,658,0,Denied,2024-01-22,,Coding Error,Emergency,Florida,779.0,90+ Days,1
+C1232,P2232,Cigna,4748,4675,Approved,2024-01-19,2024-02-10,,Radiology,New York,22.0,0-30 Days,0
+C1233,P2233,Cigna,2538,2436,Approved,2024-07-07,2024-08-13,,Cardiology,California,37.0,31-60 Days,0
+C1234,P2234,Humana,1830,1698,Approved,2024-09-11,2024-10-14,,Neurology,California,33.0,31-60 Days,0
+C1235,P2235,Cigna,946,871,Approved,2024-04-02,2024-05-16,,Cardiology,New York,44.0,31-60 Days,0
+C1236,P2236,Cigna,2986,0,Denied,2024-06-05,,Authorization Required,Cardiology,Texas,644.0,90+ Days,1
+C1237,P2237,BlueCross,3936,3779,Approved,2024-01-22,2024-02-23,,Neurology,Florida,32.0,31-60 Days,0
+C1238,P2238,Humana,914,0,Denied,2024-07-26,,Coding Error,Emergency,Texas,593.0,90+ Days,1
+C1239,P2239,BlueCross,1469,0,Denied,2024-12-13,,Authorization Required,Orthopedics,Texas,453.0,90+ Days,1
+C1240,P2240,Aetna,2233,0,Denied,2024-07-06,,Coding Error,Orthopedics,Texas,613.0,90+ Days,1
+C1241,P2241,Humana,1556,0,Denied,2024-07-08,,Coding Error,Radiology,Texas,611.0,90+ Days,1
+C1242,P2242,Humana,1427,1261,Approved,2024-07-22,2024-08-21,,Cardiology,Illinois,30.0,0-30 Days,0
+C1243,P2243,Cigna,512,0,Denied,2024-09-12,,Duplicate Claim,Orthopedics,Texas,545.0,90+ Days,1
+C1244,P2244,Humana,2444,0,Denied,2024-12-26,,Authorization Required,Radiology,Texas,440.0,90+ Days,1
+C1245,P2245,UnitedHealth,4323,4208,Approved,2024-03-10,2024-03-24,,Radiology,California,14.0,0-30 Days,0
+C1246,P2246,UnitedHealth,2918,0,Denied,2024-12-29,,Missing Documents,Neurology,Texas,437.0,90+ Days,1
+C1247,P2247,BlueCross,2757,0,Pending,2024-12-30,,,Radiology,California,436.0,90+ Days,0
+C1248,P2248,UnitedHealth,2136,2076,Approved,2024-04-12,2024-04-30,,Emergency,Illinois,18.0,0-30 Days,0
+C1249,P2249,Humana,4838,4805,Approved,2024-08-27,2024-10-11,,Cardiology,California,45.0,31-60 Days,0
+C1250,P2250,BlueCross,2833,2728,Approved,2024-09-02,2024-10-15,,Cardiology,Texas,43.0,31-60 Days,0
+C1251,P2251,Humana,1326,0,Pending,2024-11-24,,,Radiology,Texas,472.0,90+ Days,0
+C1252,P2252,Aetna,4538,4342,Approved,2024-10-09,2024-10-30,,Neurology,New York,21.0,0-30 Days,0
+C1253,P2253,UnitedHealth,753,0,Denied,2024-09-22,,Coverage Issue,Neurology,Illinois,535.0,90+ Days,1
+C1254,P2254,Cigna,2943,0,Pending,2024-04-25,,,Orthopedics,Florida,685.0,90+ Days,0
+C1255,P2255,Cigna,946,876,Approved,2024-11-21,2025-01-05,,Radiology,California,45.0,31-60 Days,0
+C1256,P2256,UnitedHealth,4670,4519,Approved,2024-11-24,2024-12-14,,Emergency,Illinois,20.0,0-30 Days,0
+C1257,P2257,BlueCross,3065,0,Denied,2024-10-15,,Missing Documents,Orthopedics,Florida,512.0,90+ Days,1
+C1258,P2258,Aetna,2468,0,Denied,2024-10-19,,Authorization Required,Cardiology,Texas,508.0,90+ Days,1
+C1259,P2259,BlueCross,4769,4707,Approved,2024-06-03,2024-07-13,,Cardiology,New York,40.0,31-60 Days,0
+C1260,P2260,Humana,897,0,Denied,2024-03-21,,Authorization Required,Emergency,New York,720.0,90+ Days,1
+C1261,P2261,Humana,1971,1788,Approved,2024-03-14,2024-04-13,,Neurology,New York,30.0,0-30 Days,0
+C1262,P2262,Cigna,1371,0,Denied,2024-09-20,,Duplicate Claim,Emergency,New York,537.0,90+ Days,1
+C1263,P2263,Aetna,4121,4085,Approved,2024-08-18,2024-09-12,,Emergency,Florida,25.0,0-30 Days,0
+C1264,P2264,Aetna,3446,0,Pending,2024-08-02,,,Cardiology,California,586.0,90+ Days,0
+C1265,P2265,UnitedHealth,2861,2730,Approved,2024-03-22,2024-05-02,,Orthopedics,California,41.0,31-60 Days,0
+C1266,P2266,Humana,4374,4257,Approved,2024-07-20,2024-08-31,,Neurology,California,42.0,31-60 Days,0
+C1267,P2267,UnitedHealth,3190,3038,Approved,2024-05-24,2024-07-04,,Orthopedics,Illinois,41.0,31-60 Days,0
+C1268,P2268,Humana,366,0,Denied,2024-08-08,,Coverage Issue,Emergency,Illinois,580.0,90+ Days,1
+C1269,P2269,Cigna,3297,3248,Approved,2024-01-27,2024-03-12,,Emergency,New York,45.0,31-60 Days,0
+C1270,P2270,Cigna,902,831,Approved,2024-08-18,2024-10-02,,Radiology,California,45.0,31-60 Days,0
+C1271,P2271,BlueCross,1354,0,Pending,2024-07-20,,,Radiology,Texas,599.0,90+ Days,0
+C1272,P2272,Cigna,3295,0,Denied,2024-04-11,,Duplicate Claim,Emergency,Illinois,699.0,90+ Days,1
+C1273,P2273,BlueCross,629,508,Approved,2024-03-11,2024-04-11,,Neurology,Illinois,31.0,31-60 Days,0
+C1274,P2274,BlueCross,4523,4482,Approved,2024-11-09,2024-12-09,,Neurology,Florida,30.0,0-30 Days,0
+C1275,P2275,Humana,3055,2930,Approved,2024-09-17,2024-10-31,,Radiology,California,44.0,31-60 Days,0
+C1276,P2276,BlueCross,436,330,Approved,2024-12-10,2024-12-27,,Emergency,New York,17.0,0-30 Days,0
+C1277,P2277,BlueCross,4187,4003,Approved,2024-12-01,2024-12-25,,Emergency,Texas,24.0,0-30 Days,0
+C1278,P2278,Aetna,1696,1659,Approved,2024-11-13,2024-12-17,,Radiology,New York,34.0,31-60 Days,0
+C1279,P2279,UnitedHealth,1200,1093,Approved,2024-08-13,2024-09-12,,Cardiology,Illinois,30.0,0-30 Days,0
+C1280,P2280,UnitedHealth,3661,3473,Approved,2024-11-09,2024-12-19,,Neurology,Florida,40.0,31-60 Days,0
+C1281,P2281,Aetna,1998,1864,Approved,2024-12-05,2025-01-14,,Orthopedics,Illinois,40.0,31-60 Days,0
+C1282,P2282,Humana,4065,0,Pending,2024-06-24,,,Emergency,Florida,625.0,90+ Days,0
+C1283,P2283,BlueCross,4266,4124,Approved,2024-05-06,2024-06-02,,Emergency,California,27.0,0-30 Days,0
+C1284,P2284,Cigna,2667,0,Denied,2024-12-19,,Authorization Required,Orthopedics,California,447.0,90+ Days,1
+C1285,P2285,Cigna,4891,0,Pending,2024-05-20,,,Neurology,California,660.0,90+ Days,0
+C1286,P2286,Cigna,4749,4552,Approved,2024-07-21,2024-08-22,,Cardiology,Illinois,32.0,31-60 Days,0
+C1287,P2287,UnitedHealth,2656,0,Pending,2024-02-10,,,Emergency,Texas,760.0,90+ Days,0
+C1288,P2288,Cigna,4224,4081,Approved,2024-10-02,2024-10-29,,Neurology,California,27.0,0-30 Days,0
+C1289,P2289,Cigna,2260,2203,Approved,2024-12-08,2025-01-20,,Orthopedics,Texas,43.0,31-60 Days,0
+C1290,P2290,UnitedHealth,3685,3511,Approved,2024-08-29,2024-09-14,,Cardiology,Texas,16.0,0-30 Days,0
+C1291,P2291,UnitedHealth,1593,1427,Approved,2024-08-31,2024-10-10,,Cardiology,Illinois,40.0,31-60 Days,0
+C1292,P2292,UnitedHealth,2638,2502,Approved,2024-02-15,2024-03-10,,Emergency,California,24.0,0-30 Days,0
+C1293,P2293,Aetna,1740,0,Pending,2024-01-19,,,Orthopedics,New York,782.0,90+ Days,0
+C1294,P2294,Humana,2671,0,Pending,2024-01-05,,,Neurology,Florida,796.0,90+ Days,0
+C1295,P2295,Cigna,1179,0,Pending,2024-06-20,,,Radiology,Illinois,629.0,90+ Days,0
+C1296,P2296,Cigna,4595,4476,Approved,2024-03-09,2024-04-20,,Neurology,Illinois,42.0,31-60 Days,0
+C1297,P2297,Cigna,3008,2825,Approved,2024-08-22,2024-09-17,,Orthopedics,Texas,26.0,0-30 Days,0
+C1298,P2298,UnitedHealth,2716,2560,Approved,2024-04-08,2024-04-29,,Cardiology,California,21.0,0-30 Days,0
+C1299,P2299,Humana,2986,2939,Approved,2024-12-08,2024-12-24,,Neurology,Illinois,16.0,0-30 Days,0
+C1300,P2300,UnitedHealth,2332,2218,Approved,2024-07-15,2024-08-09,,Neurology,California,25.0,0-30 Days,0
+C1301,P2301,Cigna,4993,4816,Approved,2024-11-30,2025-01-02,,Emergency,California,33.0,31-60 Days,0
+C1302,P2302,UnitedHealth,4112,3932,Approved,2024-07-26,2024-09-06,,Cardiology,Texas,42.0,31-60 Days,0
+C1303,P2303,Cigna,3310,3188,Approved,2024-04-22,2024-05-10,,Cardiology,California,18.0,0-30 Days,0
+C1304,P2304,UnitedHealth,3360,3167,Approved,2024-10-08,2024-11-17,,Neurology,Illinois,40.0,31-60 Days,0
+C1305,P2305,BlueCross,970,951,Approved,2024-09-27,2024-10-30,,Orthopedics,Florida,33.0,31-60 Days,0
+C1306,P2306,BlueCross,4786,0,Pending,2024-04-13,,,Cardiology,Texas,697.0,90+ Days,0
+C1307,P2307,BlueCross,1647,1618,Approved,2024-09-23,2024-10-31,,Radiology,Florida,38.0,31-60 Days,0
+C1308,P2308,UnitedHealth,1044,0,Pending,2024-08-16,,,Radiology,New York,572.0,90+ Days,0
+C1309,P2309,Aetna,4504,4361,Approved,2024-10-15,2024-10-28,,Neurology,Florida,13.0,0-30 Days,0
+C1310,P2310,Humana,3543,3395,Approved,2024-01-02,2024-01-25,,Emergency,Texas,23.0,0-30 Days,0
+C1311,P2311,Aetna,3122,0,Denied,2024-10-04,,Missing Documents,Cardiology,New York,523.0,90+ Days,1
+C1312,P2312,Aetna,2651,2556,Approved,2024-03-10,2024-04-15,,Neurology,Texas,36.0,31-60 Days,0
+C1313,P2313,Humana,3377,3343,Approved,2024-12-04,2025-01-17,,Neurology,New York,44.0,31-60 Days,0
+C1314,P2314,Cigna,4701,4701,Approved,2024-03-06,2024-03-30,,Cardiology,Florida,24.0,0-30 Days,0
+C1315,P2315,Aetna,4760,4697,Approved,2024-07-13,2024-08-06,,Emergency,New York,24.0,0-30 Days,0
+C1316,P2316,Humana,2558,2389,Approved,2024-02-27,2024-03-10,,Emergency,Florida,12.0,0-30 Days,0
+C1317,P2317,Humana,2271,2157,Approved,2024-02-21,2024-03-04,,Radiology,Texas,12.0,0-30 Days,0
+C1318,P2318,BlueCross,662,607,Approved,2024-04-29,2024-06-12,,Cardiology,Florida,44.0,31-60 Days,0
+C1319,P2319,Aetna,2669,2522,Approved,2024-10-21,2024-11-20,,Orthopedics,Illinois,30.0,0-30 Days,0
+C1320,P2320,BlueCross,2772,0,Pending,2024-12-04,,,Emergency,Florida,462.0,90+ Days,0
+C1321,P2321,BlueCross,2761,2601,Approved,2024-10-12,2024-11-02,,Orthopedics,New York,21.0,0-30 Days,0
+C1322,P2322,Humana,684,0,Pending,2024-11-25,,,Radiology,New York,471.0,90+ Days,0
+C1323,P2323,Humana,3710,3663,Approved,2024-06-02,2024-07-06,,Radiology,California,34.0,31-60 Days,0
+C1324,P2324,BlueCross,2146,2028,Approved,2024-12-28,2025-01-16,,Neurology,Florida,19.0,0-30 Days,0
+C1325,P2325,Aetna,3712,3650,Approved,2024-03-09,2024-04-12,,Radiology,New York,34.0,31-60 Days,0
+C1326,P2326,Cigna,947,0,Pending,2024-07-08,,,Orthopedics,California,611.0,90+ Days,0
+C1327,P2327,Aetna,722,704,Approved,2024-12-10,2024-12-22,,Radiology,Florida,12.0,0-30 Days,0
+C1328,P2328,UnitedHealth,2077,2074,Approved,2024-06-19,2024-07-18,,Radiology,Illinois,29.0,0-30 Days,0
+C1329,P2329,UnitedHealth,4223,0,Pending,2024-12-22,,,Orthopedics,Texas,444.0,90+ Days,0
+C1330,P2330,BlueCross,2260,2141,Approved,2024-05-24,2024-06-27,,Orthopedics,New York,34.0,31-60 Days,0
+C1331,P2331,BlueCross,2442,2417,Approved,2024-09-11,2024-10-20,,Emergency,California,39.0,31-60 Days,0
+C1332,P2332,Humana,3336,3147,Approved,2024-01-24,2024-02-17,,Emergency,Florida,24.0,0-30 Days,0
+C1333,P2333,UnitedHealth,4832,0,Pending,2024-10-23,,,Cardiology,California,504.0,90+ Days,0
+C1334,P2334,Humana,1907,1780,Approved,2024-07-13,2024-08-07,,Emergency,Florida,25.0,0-30 Days,0
+C1335,P2335,BlueCross,4302,0,Pending,2024-11-24,,,Emergency,California,472.0,90+ Days,0
+C1336,P2336,Humana,3185,3138,Approved,2024-10-06,2024-11-16,,Neurology,Florida,41.0,31-60 Days,0
+C1337,P2337,BlueCross,577,0,Denied,2024-02-08,,Missing Documents,Cardiology,Illinois,762.0,90+ Days,1
+C1338,P2338,Aetna,2195,2140,Approved,2024-03-18,2024-03-28,,Neurology,Florida,10.0,0-30 Days,0
+C1339,P2339,BlueCross,795,627,Approved,2024-12-07,2025-01-16,,Neurology,California,40.0,31-60 Days,0
+C1340,P2340,Humana,4659,4524,Approved,2024-01-07,2024-01-18,,Cardiology,Texas,11.0,0-30 Days,0
+C1341,P2341,Cigna,440,395,Approved,2024-12-23,2025-01-29,,Radiology,California,37.0,31-60 Days,0
+C1342,P2342,Aetna,1519,1455,Approved,2024-11-13,2024-12-26,,Cardiology,Illinois,43.0,31-60 Days,0
+C1343,P2343,Cigna,947,803,Approved,2024-07-26,2024-09-03,,Emergency,New York,39.0,31-60 Days,0
+C1344,P2344,UnitedHealth,960,0,Denied,2024-11-28,,Missing Documents,Orthopedics,California,468.0,90+ Days,1
+C1345,P2345,Aetna,3389,3210,Approved,2024-01-29,2024-02-08,,Neurology,New York,10.0,0-30 Days,0
+C1346,P2346,UnitedHealth,3854,3719,Approved,2024-06-18,2024-07-04,,Cardiology,New York,16.0,0-30 Days,0
+C1347,P2347,Aetna,4943,4768,Approved,2024-01-24,2024-02-07,,Orthopedics,Florida,14.0,0-30 Days,0
+C1348,P2348,Cigna,569,516,Approved,2024-06-10,2024-06-21,,Radiology,Illinois,11.0,0-30 Days,0
+C1349,P2349,BlueCross,930,785,Approved,2024-10-15,2024-11-09,,Orthopedics,New York,25.0,0-30 Days,0
+C1350,P2350,Humana,3444,0,Denied,2024-03-12,,Missing Documents,Radiology,California,729.0,90+ Days,1
+C1351,P2351,BlueCross,1100,946,Approved,2024-02-08,2024-03-10,,Emergency,Texas,31.0,31-60 Days,0
+C1352,P2352,BlueCross,2973,2848,Approved,2024-05-19,2024-06-26,,Radiology,New York,38.0,31-60 Days,0
+C1353,P2353,UnitedHealth,3375,3354,Approved,2024-12-14,2025-01-17,,Emergency,Illinois,34.0,31-60 Days,0
+C1354,P2354,BlueCross,902,720,Approved,2024-03-19,2024-04-22,,Emergency,Florida,34.0,31-60 Days,0
+C1355,P2355,UnitedHealth,3254,3141,Approved,2024-01-03,2024-02-01,,Neurology,California,29.0,0-30 Days,0
+C1356,P2356,Cigna,1385,1243,Approved,2024-08-08,2024-09-15,,Emergency,Texas,38.0,31-60 Days,0
+C1357,P2357,BlueCross,1146,1123,Approved,2024-06-30,2024-08-14,,Radiology,New York,45.0,31-60 Days,0
+C1358,P2358,BlueCross,3455,3256,Approved,2024-07-30,2024-09-02,,Radiology,California,34.0,31-60 Days,0
+C1359,P2359,Aetna,4985,4942,Approved,2024-12-16,2025-01-19,,Radiology,Florida,34.0,31-60 Days,0
+C1360,P2360,UnitedHealth,2498,2387,Approved,2024-02-02,2024-02-22,,Emergency,California,20.0,0-30 Days,0
+C1361,P2361,Cigna,4266,0,Denied,2024-07-03,,Coding Error,Neurology,California,616.0,90+ Days,1
+C1362,P2362,UnitedHealth,1901,1900,Approved,2024-03-10,2024-04-08,,Neurology,Illinois,29.0,0-30 Days,0
+C1363,P2363,Humana,3412,0,Denied,2024-06-17,,Authorization Required,Emergency,Illinois,632.0,90+ Days,1
+C1364,P2364,Cigna,1415,1293,Approved,2024-11-04,2024-11-26,,Neurology,Illinois,22.0,0-30 Days,0
+C1365,P2365,Cigna,2914,2767,Approved,2024-12-21,2025-01-31,,Orthopedics,New York,41.0,31-60 Days,0
+C1366,P2366,UnitedHealth,2596,0,Denied,2024-07-20,,Coding Error,Emergency,New York,599.0,90+ Days,1
+C1367,P2367,Aetna,4769,4583,Approved,2024-10-08,2024-10-19,,Radiology,Florida,11.0,0-30 Days,0
+C1368,P2368,Humana,2686,0,Denied,2024-02-05,,Authorization Required,Orthopedics,New York,765.0,90+ Days,1
+C1369,P2369,Humana,2282,2186,Approved,2024-03-19,2024-04-25,,Orthopedics,California,37.0,31-60 Days,0
+C1370,P2370,Aetna,4225,4048,Approved,2024-09-30,2024-11-11,,Neurology,Illinois,42.0,31-60 Days,0
+C1371,P2371,Humana,3245,0,Denied,2024-10-01,,Duplicate Claim,Radiology,Texas,526.0,90+ Days,1
+C1372,P2372,Aetna,3208,3064,Approved,2024-11-09,2024-11-21,,Cardiology,Florida,12.0,0-30 Days,0
+C1373,P2373,Humana,1167,1037,Approved,2024-05-12,2024-06-05,,Emergency,New York,24.0,0-30 Days,0
+C1374,P2374,BlueCross,2110,1913,Approved,2024-07-19,2024-08-27,,Radiology,Illinois,39.0,31-60 Days,0
+C1375,P2375,BlueCross,3125,0,Pending,2024-09-04,,,Radiology,Florida,553.0,90+ Days,0
+C1376,P2376,Aetna,1003,924,Approved,2024-03-13,2024-04-14,,Emergency,New York,32.0,31-60 Days,0
+C1377,P2377,Cigna,4568,4456,Approved,2024-08-31,2024-09-16,,Neurology,Florida,16.0,0-30 Days,0
+C1378,P2378,Humana,2759,2754,Approved,2024-12-29,2025-01-15,,Emergency,Texas,17.0,0-30 Days,0
+C1379,P2379,Cigna,2298,2214,Approved,2024-10-09,2024-10-29,,Cardiology,Florida,20.0,0-30 Days,0
+C1380,P2380,BlueCross,2199,0,Denied,2024-11-18,,Coverage Issue,Neurology,New York,478.0,90+ Days,1
+C1381,P2381,UnitedHealth,539,0,Denied,2024-04-11,,Authorization Required,Neurology,New York,699.0,90+ Days,1
+C1382,P2382,BlueCross,336,0,Denied,2024-04-15,,Coding Error,Neurology,New York,695.0,90+ Days,1
+C1383,P2383,Aetna,4698,4581,Approved,2024-06-15,2024-07-07,,Radiology,Texas,22.0,0-30 Days,0
+C1384,P2384,Aetna,4623,0,Pending,2024-06-09,,,Emergency,New York,640.0,90+ Days,0
+C1385,P2385,BlueCross,3515,3398,Approved,2024-06-27,2024-07-29,,Neurology,Illinois,32.0,31-60 Days,0
+C1386,P2386,BlueCross,994,0,Denied,2024-06-09,,Missing Documents,Orthopedics,California,640.0,90+ Days,1
+C1387,P2387,UnitedHealth,1799,1700,Approved,2024-03-13,2024-04-24,,Emergency,Texas,42.0,31-60 Days,0
+C1388,P2388,Humana,3443,3266,Approved,2024-09-06,2024-10-20,,Radiology,Florida,44.0,31-60 Days,0
+C1389,P2389,UnitedHealth,4311,4196,Approved,2024-04-05,2024-05-05,,Radiology,Florida,30.0,0-30 Days,0
+C1390,P2390,BlueCross,378,235,Approved,2024-04-09,2024-05-13,,Cardiology,California,34.0,31-60 Days,0
+C1391,P2391,BlueCross,4328,4286,Approved,2024-08-15,2024-09-25,,Neurology,New York,41.0,31-60 Days,0
+C1392,P2392,Aetna,2106,1969,Approved,2024-05-20,2024-06-13,,Radiology,Texas,24.0,0-30 Days,0
+C1393,P2393,Cigna,4933,0,Denied,2024-09-10,,Duplicate Claim,Orthopedics,New York,547.0,90+ Days,1
+C1394,P2394,BlueCross,1235,1097,Approved,2024-10-05,2024-11-07,,Cardiology,Illinois,33.0,31-60 Days,0
+C1395,P2395,Aetna,2090,0,Pending,2024-02-22,,,Neurology,Illinois,748.0,90+ Days,0
+C1396,P2396,UnitedHealth,3984,3954,Approved,2024-02-14,2024-03-23,,Emergency,Texas,38.0,31-60 Days,0
+C1397,P2397,UnitedHealth,3172,0,Pending,2024-11-08,,,Orthopedics,Illinois,488.0,90+ Days,0
+C1398,P2398,Humana,1440,0,Denied,2024-04-15,,Missing Documents,Orthopedics,Illinois,695.0,90+ Days,1
+C1399,P2399,BlueCross,2602,2422,Approved,2024-03-27,2024-04-26,,Emergency,Illinois,30.0,0-30 Days,0
+C1400,P2400,Cigna,2490,0,Pending,2024-09-20,,,Emergency,Illinois,537.0,90+ Days,0
+C1401,P2401,Aetna,785,0,Pending,2024-12-01,,,Orthopedics,New York,465.0,90+ Days,0
+C1402,P2402,UnitedHealth,1498,0,Denied,2024-05-06,,Authorization Required,Orthopedics,Florida,674.0,90+ Days,1
+C1403,P2403,Humana,2501,2482,Approved,2024-07-11,2024-08-18,,Orthopedics,Illinois,38.0,31-60 Days,0
+C1404,P2404,Aetna,2579,0,Denied,2024-07-07,,Authorization Required,Neurology,Illinois,612.0,90+ Days,1
+C1405,P2405,Humana,320,0,Pending,2024-02-17,,,Emergency,Illinois,753.0,90+ Days,0
+C1406,P2406,Humana,4678,4552,Approved,2024-08-07,2024-08-30,,Emergency,Texas,23.0,0-30 Days,0
+C1407,P2407,Cigna,3066,2979,Approved,2024-03-07,2024-04-17,,Emergency,California,41.0,31-60 Days,0
+C1408,P2408,Aetna,4064,3948,Approved,2024-03-21,2024-04-28,,Cardiology,Texas,38.0,31-60 Days,0
+C1409,P2409,Aetna,1380,0,Pending,2024-06-03,,,Neurology,Florida,646.0,90+ Days,0
+C1410,P2410,UnitedHealth,3252,3239,Approved,2024-07-09,2024-07-29,,Emergency,Texas,20.0,0-30 Days,0
+C1411,P2411,Humana,3816,0,Denied,2024-12-26,,Missing Documents,Emergency,Florida,440.0,90+ Days,1
+C1412,P2412,Aetna,938,764,Approved,2024-04-25,2024-06-07,,Orthopedics,New York,43.0,31-60 Days,0
+C1413,P2413,Humana,3114,0,Denied,2024-08-04,,Coverage Issue,Cardiology,Texas,584.0,90+ Days,1
+C1414,P2414,Humana,3438,3358,Approved,2024-02-22,2024-03-09,,Cardiology,Florida,16.0,0-30 Days,0
+C1415,P2415,Cigna,3435,0,Denied,2024-03-09,,Coverage Issue,Emergency,Florida,732.0,90+ Days,1
+C1416,P2416,Aetna,369,280,Approved,2024-03-25,2024-05-02,,Radiology,Illinois,38.0,31-60 Days,0
+C1417,P2417,UnitedHealth,3924,0,Pending,2024-02-14,,,Orthopedics,New York,756.0,90+ Days,0
+C1418,P2418,Aetna,3445,3410,Approved,2024-08-07,2024-09-06,,Orthopedics,Texas,30.0,0-30 Days,0
+C1419,P2419,UnitedHealth,2332,2133,Approved,2024-11-03,2024-12-01,,Emergency,Texas,28.0,0-30 Days,0
+C1420,P2420,Aetna,4541,4466,Approved,2024-04-06,2024-05-11,,Emergency,Florida,35.0,31-60 Days,0
+C1421,P2421,Aetna,3461,3326,Approved,2024-09-12,2024-09-26,,Orthopedics,New York,14.0,0-30 Days,0
+C1422,P2422,Aetna,1381,1288,Approved,2024-10-18,2024-11-23,,Emergency,California,36.0,31-60 Days,0
+C1423,P2423,BlueCross,897,830,Approved,2024-02-04,2024-02-14,,Orthopedics,New York,10.0,0-30 Days,0
+C1424,P2424,UnitedHealth,3560,3364,Approved,2024-11-17,2024-12-29,,Cardiology,Texas,42.0,31-60 Days,0
+C1425,P2425,Humana,975,904,Approved,2024-10-02,2024-10-21,,Neurology,New York,19.0,0-30 Days,0
+C1426,P2426,Aetna,4488,0,Pending,2024-03-20,,,Emergency,Texas,721.0,90+ Days,0
+C1427,P2427,BlueCross,841,827,Approved,2024-08-11,2024-09-05,,Emergency,New York,25.0,0-30 Days,0
+C1428,P2428,UnitedHealth,1250,1171,Approved,2024-11-07,2024-11-20,,Cardiology,New York,13.0,0-30 Days,0
+C1429,P2429,UnitedHealth,1424,0,Denied,2024-03-24,,Authorization Required,Cardiology,Texas,717.0,90+ Days,1
+C1430,P2430,Cigna,2423,2236,Approved,2024-03-05,2024-04-01,,Radiology,Illinois,27.0,0-30 Days,0
+C1431,P2431,Aetna,3817,3635,Approved,2024-02-02,2024-02-28,,Cardiology,California,26.0,0-30 Days,0
+C1432,P2432,BlueCross,4028,3883,Approved,2024-01-29,2024-03-10,,Cardiology,New York,41.0,31-60 Days,0
+C1433,P2433,UnitedHealth,2389,0,Denied,2024-10-20,,Missing Documents,Emergency,Florida,507.0,90+ Days,1
+C1434,P2434,UnitedHealth,660,0,Pending,2024-01-07,,,Radiology,Texas,794.0,90+ Days,0
+C1435,P2435,UnitedHealth,3281,3272,Approved,2024-03-17,2024-04-07,,Cardiology,New York,21.0,0-30 Days,0
+C1436,P2436,BlueCross,2936,2917,Approved,2024-06-12,2024-07-09,,Neurology,Florida,27.0,0-30 Days,0
+C1437,P2437,BlueCross,4412,0,Denied,2024-01-27,,Coverage Issue,Emergency,Texas,774.0,90+ Days,1
+C1438,P2438,UnitedHealth,3584,3386,Approved,2024-08-26,2024-09-23,,Radiology,Texas,28.0,0-30 Days,0
+C1439,P2439,Cigna,4830,4756,Approved,2024-07-07,2024-07-29,,Emergency,Texas,22.0,0-30 Days,0
+C1440,P2440,BlueCross,2287,2090,Approved,2024-10-29,2024-12-09,,Emergency,Illinois,41.0,31-60 Days,0
+C1441,P2441,UnitedHealth,1533,1474,Approved,2024-07-28,2024-08-08,,Radiology,Florida,11.0,0-30 Days,0
+C1442,P2442,BlueCross,3044,2856,Approved,2024-12-02,2025-01-05,,Emergency,Texas,34.0,31-60 Days,0
+C1443,P2443,Cigna,4640,0,Pending,2024-08-02,,,Cardiology,Florida,586.0,90+ Days,0
+C1444,P2444,Humana,2592,2487,Approved,2024-04-28,2024-06-10,,Cardiology,Florida,43.0,31-60 Days,0
+C1445,P2445,Cigna,1082,1063,Approved,2024-11-22,2024-12-27,,Neurology,Texas,35.0,31-60 Days,0
+C1446,P2446,BlueCross,3863,0,Denied,2024-03-07,,Coverage Issue,Radiology,Texas,734.0,90+ Days,1
+C1447,P2447,Cigna,3519,0,Denied,2024-06-16,,Coding Error,Emergency,California,633.0,90+ Days,1
+C1448,P2448,Humana,911,0,Pending,2024-03-10,,,Emergency,Florida,731.0,90+ Days,0
+C1449,P2449,BlueCross,1165,1061,Approved,2024-08-26,2024-09-25,,Cardiology,Florida,30.0,0-30 Days,0
+C1450,P2450,Aetna,2000,1970,Approved,2024-08-25,2024-09-20,,Radiology,California,26.0,0-30 Days,0
+C1451,P2451,Aetna,630,607,Approved,2024-06-16,2024-07-05,,Orthopedics,California,19.0,0-30 Days,0
+C1452,P2452,UnitedHealth,4506,4462,Approved,2024-06-02,2024-06-28,,Emergency,New York,26.0,0-30 Days,0
+C1453,P2453,Aetna,4854,0,Denied,2024-05-07,,Missing Documents,Neurology,New York,673.0,90+ Days,1
+C1454,P2454,Humana,1294,1244,Approved,2024-04-23,2024-05-11,,Cardiology,Florida,18.0,0-30 Days,0
+C1455,P2455,Humana,2420,0,Pending,2024-02-08,,,Emergency,Texas,762.0,90+ Days,0
+C1456,P2456,Aetna,3932,0,Denied,2024-02-17,,Coding Error,Cardiology,Florida,753.0,90+ Days,1
+C1457,P2457,Aetna,714,529,Approved,2024-10-20,2024-11-26,,Cardiology,New York,37.0,31-60 Days,0
+C1458,P2458,Humana,3435,0,Denied,2024-03-29,,Coding Error,Neurology,Texas,712.0,90+ Days,1
+C1459,P2459,UnitedHealth,2592,2435,Approved,2024-03-17,2024-03-29,,Orthopedics,California,12.0,0-30 Days,0
+C1460,P2460,BlueCross,2717,2702,Approved,2024-10-08,2024-11-17,,Radiology,Florida,40.0,31-60 Days,0
+C1461,P2461,Aetna,1424,1361,Approved,2024-11-25,2025-01-07,,Emergency,New York,43.0,31-60 Days,0
+C1462,P2462,BlueCross,3241,3097,Approved,2024-09-05,2024-10-07,,Cardiology,New York,32.0,31-60 Days,0
+C1463,P2463,BlueCross,2515,2508,Approved,2024-06-12,2024-07-06,,Emergency,New York,24.0,0-30 Days,0
+C1464,P2464,Cigna,4637,4597,Approved,2024-10-26,2024-11-19,,Cardiology,New York,24.0,0-30 Days,0
+C1465,P2465,Aetna,2483,2336,Approved,2024-01-29,2024-02-22,,Orthopedics,Florida,24.0,0-30 Days,0
+C1466,P2466,Humana,1742,1591,Approved,2024-06-11,2024-07-13,,Emergency,Florida,32.0,31-60 Days,0
+C1467,P2467,Aetna,4917,4779,Approved,2024-04-06,2024-05-17,,Emergency,Illinois,41.0,31-60 Days,0
+C1468,P2468,Cigna,610,605,Approved,2024-04-29,2024-05-23,,Orthopedics,New York,24.0,0-30 Days,0
+C1469,P2469,BlueCross,3017,0,Pending,2024-04-13,,,Neurology,Texas,697.0,90+ Days,0
+C1470,P2470,UnitedHealth,2950,2752,Approved,2024-03-16,2024-04-04,,Emergency,Florida,19.0,0-30 Days,0
+C1471,P2471,Aetna,894,744,Approved,2024-12-05,2025-01-09,,Radiology,California,35.0,31-60 Days,0
+C1472,P2472,Aetna,2942,2779,Approved,2024-03-21,2024-04-27,,Emergency,California,37.0,31-60 Days,0
+C1473,P2473,Humana,4903,0,Denied,2024-11-10,,Coding Error,Emergency,Florida,486.0,90+ Days,1
+C1474,P2474,UnitedHealth,3399,3367,Approved,2024-12-18,2025-01-15,,Radiology,Florida,28.0,0-30 Days,0
+C1475,P2475,UnitedHealth,3507,0,Pending,2024-10-17,,,Cardiology,Illinois,510.0,90+ Days,0
+C1476,P2476,Aetna,2906,0,Pending,2024-11-09,,,Orthopedics,Illinois,487.0,90+ Days,0
+C1477,P2477,UnitedHealth,4364,4276,Approved,2024-02-09,2024-03-05,,Radiology,Texas,25.0,0-30 Days,0
+C1478,P2478,Cigna,3050,2987,Approved,2024-05-15,2024-06-07,,Orthopedics,Texas,23.0,0-30 Days,0
+C1479,P2479,Aetna,1185,0,Denied,2024-01-25,,Authorization Required,Emergency,California,776.0,90+ Days,1
+C1480,P2480,Humana,3691,3552,Approved,2024-07-12,2024-08-13,,Neurology,Florida,32.0,31-60 Days,0
+C1481,P2481,Humana,2147,2072,Approved,2024-02-07,2024-02-19,,Cardiology,New York,12.0,0-30 Days,0
+C1482,P2482,Aetna,1157,1116,Approved,2024-03-28,2024-05-01,,Emergency,California,34.0,31-60 Days,0
+C1483,P2483,Aetna,3068,2888,Approved,2024-11-10,2024-12-20,,Radiology,Texas,40.0,31-60 Days,0
+C1484,P2484,Aetna,3856,3804,Approved,2024-02-21,2024-03-23,,Neurology,Florida,31.0,31-60 Days,0
+C1485,P2485,UnitedHealth,4724,4664,Approved,2024-05-24,2024-06-22,,Neurology,Illinois,29.0,0-30 Days,0
+C1486,P2486,Aetna,4983,4970,Approved,2024-09-08,2024-09-27,,Cardiology,New York,19.0,0-30 Days,0
+C1487,P2487,Cigna,1017,966,Approved,2024-12-04,2025-01-13,,Cardiology,New York,40.0,31-60 Days,0
+C1488,P2488,Aetna,1699,1670,Approved,2024-02-11,2024-03-22,,Cardiology,Florida,40.0,31-60 Days,0
+C1489,P2489,Cigna,4306,0,Pending,2024-05-15,,,Neurology,New York,665.0,90+ Days,0
+C1490,P2490,Aetna,1814,1767,Approved,2024-07-14,2024-08-16,,Radiology,New York,33.0,31-60 Days,0
+C1491,P2491,Humana,3902,3758,Approved,2024-04-25,2024-05-22,,Cardiology,California,27.0,0-30 Days,0
+C1492,P2492,Aetna,1002,0,Denied,2024-10-04,,Authorization Required,Orthopedics,Texas,523.0,90+ Days,1
+C1493,P2493,BlueCross,799,0,Denied,2024-09-24,,Authorization Required,Orthopedics,Illinois,533.0,90+ Days,1
+C1494,P2494,BlueCross,2230,2048,Approved,2024-02-10,2024-03-16,,Neurology,Illinois,35.0,31-60 Days,0
+C1495,P2495,Aetna,4533,0,Denied,2024-12-12,,Duplicate Claim,Radiology,Illinois,454.0,90+ Days,1
+C1496,P2496,UnitedHealth,1716,0,Pending,2024-03-26,,,Cardiology,New York,715.0,90+ Days,0
+C1497,P2497,UnitedHealth,649,598,Approved,2024-12-15,2025-01-21,,Orthopedics,Florida,37.0,31-60 Days,0
+C1498,P2498,UnitedHealth,2919,0,Pending,2024-02-04,,,Radiology,California,766.0,90+ Days,0
+C1499,P2499,Aetna,3555,3438,Approved,2024-05-21,2024-07-03,,Neurology,Illinois,43.0,31-60 Days,0
+C1500,P2500,Aetna,4580,0,Denied,2024-02-27,,Authorization Required,Radiology,Illinois,743.0,90+ Days,1
+C1501,P2501,UnitedHealth,1120,0,Pending,2024-10-15,,,Orthopedics,Illinois,512.0,90+ Days,0
+C1502,P2502,Aetna,3116,0,Pending,2024-05-15,,,Emergency,Illinois,665.0,90+ Days,0
+C1503,P2503,Humana,4175,4139,Approved,2024-05-21,2024-06-25,,Neurology,Illinois,35.0,31-60 Days,0
+C1504,P2504,BlueCross,617,605,Approved,2024-06-18,2024-07-13,,Radiology,New York,25.0,0-30 Days,0
+C1505,P2505,Humana,465,394,Approved,2024-06-04,2024-07-03,,Emergency,California,29.0,0-30 Days,0
+C1506,P2506,Humana,1400,1332,Approved,2024-08-14,2024-09-13,,Cardiology,Florida,30.0,0-30 Days,0
+C1507,P2507,Humana,1839,1645,Approved,2024-07-27,2024-09-06,,Radiology,Texas,41.0,31-60 Days,0
+C1508,P2508,BlueCross,4521,0,Denied,2024-02-03,,Coding Error,Emergency,Texas,767.0,90+ Days,1
+C1509,P2509,BlueCross,4594,0,Pending,2024-01-15,,,Neurology,Florida,786.0,90+ Days,0
+C1510,P2510,UnitedHealth,772,680,Approved,2024-08-21,2024-09-03,,Orthopedics,Florida,13.0,0-30 Days,0
+C1511,P2511,UnitedHealth,4102,3928,Approved,2024-11-21,2024-12-08,,Emergency,California,17.0,0-30 Days,0
+C1512,P2512,Aetna,4304,4154,Approved,2024-03-31,2024-05-10,,Orthopedics,California,40.0,31-60 Days,0
+C1513,P2513,BlueCross,1639,0,Denied,2024-05-12,,Missing Documents,Emergency,California,668.0,90+ Days,1
+C1514,P2514,Cigna,706,650,Approved,2024-10-19,2024-11-11,,Cardiology,New York,23.0,0-30 Days,0
+C1515,P2515,UnitedHealth,3654,3533,Approved,2024-12-15,2024-12-25,,Orthopedics,California,10.0,0-30 Days,0
+C1516,P2516,UnitedHealth,369,187,Approved,2024-11-07,2024-12-06,,Orthopedics,Illinois,29.0,0-30 Days,0
+C1517,P2517,Cigna,3156,3079,Approved,2024-04-21,2024-05-30,,Neurology,New York,39.0,31-60 Days,0
+C1518,P2518,BlueCross,1138,995,Approved,2024-12-05,2025-01-07,,Radiology,New York,33.0,31-60 Days,0
+C1519,P2519,BlueCross,2745,0,Denied,2024-09-03,,Missing Documents,Radiology,California,554.0,90+ Days,1
+C1520,P2520,Cigna,2568,2520,Approved,2024-12-30,2025-01-28,,Emergency,California,29.0,0-30 Days,0
+C1521,P2521,UnitedHealth,765,0,Denied,2024-11-03,,Authorization Required,Radiology,Florida,493.0,90+ Days,1
+C1522,P2522,Cigna,4374,0,Pending,2024-05-12,,,Orthopedics,Texas,668.0,90+ Days,0
+C1523,P2523,Humana,589,502,Approved,2024-10-19,2024-11-10,,Neurology,New York,22.0,0-30 Days,0
+C1524,P2524,UnitedHealth,3236,3190,Approved,2024-03-28,2024-05-12,,Radiology,New York,45.0,31-60 Days,0
+C1525,P2525,Cigna,1348,0,Denied,2024-10-13,,Coverage Issue,Cardiology,New York,514.0,90+ Days,1
+C1526,P2526,Cigna,3210,3126,Approved,2024-06-06,2024-07-12,,Cardiology,Florida,36.0,31-60 Days,0
+C1527,P2527,Cigna,2708,2695,Approved,2024-03-01,2024-04-10,,Emergency,Illinois,40.0,31-60 Days,0
+C1528,P2528,BlueCross,883,853,Approved,2024-04-09,2024-05-21,,Radiology,Illinois,42.0,31-60 Days,0
+C1529,P2529,Humana,3684,3633,Approved,2024-03-18,2024-04-05,,Radiology,California,18.0,0-30 Days,0
+C1530,P2530,Cigna,4048,3924,Approved,2024-04-02,2024-04-17,,Neurology,Illinois,15.0,0-30 Days,0
+C1531,P2531,Cigna,775,581,Approved,2024-05-20,2024-06-12,,Orthopedics,California,23.0,0-30 Days,0
+C1532,P2532,UnitedHealth,4310,0,Denied,2024-02-15,,Coverage Issue,Radiology,Florida,755.0,90+ Days,1
+C1533,P2533,BlueCross,3604,3603,Approved,2024-09-01,2024-10-05,,Neurology,New York,34.0,31-60 Days,0
+C1534,P2534,Aetna,3356,0,Pending,2024-06-13,,,Radiology,Florida,636.0,90+ Days,0
+C1535,P2535,BlueCross,333,156,Approved,2024-05-07,2024-05-31,,Orthopedics,Texas,24.0,0-30 Days,0
+C1536,P2536,Cigna,1141,1099,Approved,2024-10-28,2024-11-26,,Emergency,Florida,29.0,0-30 Days,0
+C1537,P2537,Aetna,2682,2596,Approved,2024-09-23,2024-11-05,,Cardiology,California,43.0,31-60 Days,0
+C1538,P2538,Humana,4315,4212,Approved,2024-04-06,2024-04-26,,Orthopedics,California,20.0,0-30 Days,0
+C1539,P2539,Aetna,1374,1331,Approved,2024-01-12,2024-02-23,,Orthopedics,Florida,42.0,31-60 Days,0
+C1540,P2540,Aetna,3373,0,Pending,2024-05-10,,,Emergency,Texas,670.0,90+ Days,0
+C1541,P2541,BlueCross,692,0,Denied,2024-11-30,,Missing Documents,Radiology,Texas,466.0,90+ Days,1
+C1542,P2542,Aetna,3939,3818,Approved,2024-10-07,2024-11-02,,Cardiology,New York,26.0,0-30 Days,0
+C1543,P2543,UnitedHealth,2766,2697,Approved,2024-02-21,2024-04-04,,Orthopedics,Texas,43.0,31-60 Days,0
+C1544,P2544,BlueCross,3731,0,Denied,2024-02-23,,Duplicate Claim,Radiology,Florida,747.0,90+ Days,1
+C1545,P2545,BlueCross,1233,0,Denied,2024-09-11,,Coverage Issue,Cardiology,California,546.0,90+ Days,1
+C1546,P2546,BlueCross,4585,0,Pending,2024-07-02,,,Orthopedics,California,617.0,90+ Days,0
+C1547,P2547,Humana,622,538,Approved,2024-04-16,2024-05-26,,Emergency,Florida,40.0,31-60 Days,0
+C1548,P2548,UnitedHealth,1029,0,Pending,2024-10-20,,,Cardiology,Texas,507.0,90+ Days,0
+C1549,P2549,Humana,4491,4327,Approved,2024-02-21,2024-03-18,,Orthopedics,Texas,26.0,0-30 Days,0
+C1550,P2550,UnitedHealth,2463,2453,Approved,2024-02-21,2024-03-13,,Neurology,California,21.0,0-30 Days,0
+C1551,P2551,Cigna,3789,0,Denied,2024-02-18,,Missing Documents,Emergency,California,752.0,90+ Days,1
+C1552,P2552,Aetna,2992,2805,Approved,2024-08-12,2024-09-08,,Orthopedics,Florida,27.0,0-30 Days,0
+C1553,P2553,Aetna,1798,1729,Approved,2024-07-23,2024-08-31,,Emergency,California,39.0,31-60 Days,0
+C1554,P2554,Humana,1666,1626,Approved,2024-12-22,2025-01-04,,Neurology,New York,13.0,0-30 Days,0
+C1555,P2555,Aetna,4254,0,Denied,2024-12-13,,Authorization Required,Neurology,Illinois,453.0,90+ Days,1
+C1556,P2556,UnitedHealth,3237,3114,Approved,2024-12-16,2025-01-03,,Radiology,New York,18.0,0-30 Days,0
+C1557,P2557,Humana,3910,3907,Approved,2024-05-13,2024-06-12,,Cardiology,New York,30.0,0-30 Days,0
+C1558,P2558,BlueCross,2134,0,Pending,2024-12-08,,,Radiology,Illinois,458.0,90+ Days,0
+C1559,P2559,Cigna,1080,992,Approved,2024-05-07,2024-06-16,,Radiology,Illinois,40.0,31-60 Days,0
+C1560,P2560,Humana,747,627,Approved,2024-03-21,2024-05-02,,Orthopedics,Illinois,42.0,31-60 Days,0
+C1561,P2561,Humana,4327,4315,Approved,2024-06-18,2024-07-15,,Orthopedics,Texas,27.0,0-30 Days,0
+C1562,P2562,BlueCross,3401,3284,Approved,2024-04-30,2024-05-15,,Orthopedics,Illinois,15.0,0-30 Days,0
+C1563,P2563,Humana,1021,0,Pending,2024-08-16,,,Radiology,New York,572.0,90+ Days,0
+C1564,P2564,Cigna,445,303,Approved,2024-07-30,2024-08-11,,Cardiology,New York,12.0,0-30 Days,0
+C1565,P2565,BlueCross,2795,0,Pending,2024-10-14,,,Cardiology,Texas,513.0,90+ Days,0
+C1566,P2566,UnitedHealth,3276,0,Denied,2024-04-24,,Authorization Required,Neurology,California,686.0,90+ Days,1
+C1567,P2567,Cigna,4175,0,Denied,2024-07-05,,Authorization Required,Radiology,Illinois,614.0,90+ Days,1
+C1568,P2568,Aetna,317,177,Approved,2024-11-20,2024-12-18,,Cardiology,Florida,28.0,0-30 Days,0
+C1569,P2569,BlueCross,675,0,Pending,2024-09-09,,,Emergency,Texas,548.0,90+ Days,0
+C1570,P2570,UnitedHealth,2383,2283,Approved,2024-04-06,2024-04-23,,Neurology,Texas,17.0,0-30 Days,0
+C1571,P2571,UnitedHealth,3068,2906,Approved,2024-07-31,2024-08-12,,Neurology,Florida,12.0,0-30 Days,0
+C1572,P2572,BlueCross,4046,0,Denied,2024-09-15,,Coverage Issue,Cardiology,New York,542.0,90+ Days,1
+C1573,P2573,Humana,697,567,Approved,2024-08-09,2024-09-18,,Cardiology,Illinois,40.0,31-60 Days,0
+C1574,P2574,UnitedHealth,1351,1222,Approved,2024-12-02,2025-01-01,,Radiology,Florida,30.0,0-30 Days,0
+C1575,P2575,Humana,2333,2218,Approved,2024-06-24,2024-07-22,,Neurology,Illinois,28.0,0-30 Days,0
+C1576,P2576,UnitedHealth,4496,4416,Approved,2024-12-25,2025-02-08,,Orthopedics,New York,45.0,31-60 Days,0
+C1577,P2577,BlueCross,2017,1845,Approved,2024-05-28,2024-06-29,,Orthopedics,Florida,32.0,31-60 Days,0
+C1578,P2578,UnitedHealth,4744,0,Denied,2024-06-14,,Missing Documents,Orthopedics,Illinois,635.0,90+ Days,1
+C1579,P2579,Cigna,4974,0,Pending,2024-12-29,,,Radiology,New York,437.0,90+ Days,0
+C1580,P2580,Humana,3760,0,Denied,2024-09-24,,Missing Documents,Radiology,California,533.0,90+ Days,1
+C1581,P2581,Aetna,734,0,Denied,2024-04-12,,Coding Error,Neurology,Florida,698.0,90+ Days,1
+C1582,P2582,UnitedHealth,1499,0,Denied,2024-12-19,,Coding Error,Emergency,California,447.0,90+ Days,1
+C1583,P2583,UnitedHealth,3238,0,Denied,2024-02-22,,Duplicate Claim,Radiology,Texas,748.0,90+ Days,1
+C1584,P2584,BlueCross,3485,3308,Approved,2024-12-22,2025-01-19,,Orthopedics,Illinois,28.0,0-30 Days,0
+C1585,P2585,Aetna,3712,0,Pending,2024-12-16,,,Neurology,New York,450.0,90+ Days,0
+C1586,P2586,Cigna,406,0,Denied,2024-04-13,,Duplicate Claim,Radiology,Texas,697.0,90+ Days,1
+C1587,P2587,Humana,4777,0,Denied,2024-04-10,,Coverage Issue,Orthopedics,California,700.0,90+ Days,1
+C1588,P2588,Cigna,910,880,Approved,2024-03-29,2024-05-10,,Neurology,Florida,42.0,31-60 Days,0
+C1589,P2589,Humana,2586,2437,Approved,2024-03-07,2024-03-27,,Cardiology,New York,20.0,0-30 Days,0
+C1590,P2590,Cigna,4120,0,Denied,2024-03-20,,Missing Documents,Cardiology,California,721.0,90+ Days,1
+C1591,P2591,UnitedHealth,716,0,Denied,2024-11-16,,Duplicate Claim,Emergency,Illinois,480.0,90+ Days,1
+C1592,P2592,Cigna,4806,4672,Approved,2024-12-28,2025-01-27,,Neurology,Illinois,30.0,0-30 Days,0
+C1593,P2593,UnitedHealth,858,0,Denied,2024-03-22,,Authorization Required,Orthopedics,Illinois,719.0,90+ Days,1
+C1594,P2594,BlueCross,1053,969,Approved,2024-04-19,2024-05-20,,Radiology,New York,31.0,31-60 Days,0
+C1595,P2595,Cigna,4645,4616,Approved,2024-10-14,2024-10-24,,Emergency,Florida,10.0,0-30 Days,0
+C1596,P2596,Cigna,2297,0,Pending,2024-12-15,,,Neurology,Florida,451.0,90+ Days,0
+C1597,P2597,Cigna,3461,3329,Approved,2024-05-24,2024-06-04,,Neurology,Texas,11.0,0-30 Days,0
+C1598,P2598,Cigna,3950,3868,Approved,2024-05-31,2024-06-22,,Radiology,Illinois,22.0,0-30 Days,0
+C1599,P2599,BlueCross,1671,0,Pending,2024-10-02,,,Cardiology,Texas,525.0,90+ Days,0
+C1600,P2600,BlueCross,2026,0,Denied,2024-04-19,,Authorization Required,Cardiology,Texas,691.0,90+ Days,1
+C1601,P2601,Aetna,3865,3859,Approved,2024-02-06,2024-02-25,,Orthopedics,Illinois,19.0,0-30 Days,0
+C1602,P2602,Humana,1016,874,Approved,2024-04-01,2024-04-27,,Emergency,Texas,26.0,0-30 Days,0
+C1603,P2603,Aetna,2418,2308,Approved,2024-08-18,2024-09-22,,Radiology,Florida,35.0,31-60 Days,0
+C1604,P2604,Cigna,1269,1076,Approved,2024-11-24,2024-12-08,,Cardiology,New York,14.0,0-30 Days,0
+C1605,P2605,BlueCross,3230,0,Pending,2024-02-24,,,Cardiology,Texas,746.0,90+ Days,0
+C1606,P2606,Cigna,1008,907,Approved,2024-08-12,2024-09-15,,Emergency,Illinois,34.0,31-60 Days,0
+C1607,P2607,Aetna,4670,4595,Approved,2024-07-19,2024-09-01,,Neurology,Florida,44.0,31-60 Days,0
+C1608,P2608,UnitedHealth,391,360,Approved,2024-10-11,2024-10-30,,Emergency,California,19.0,0-30 Days,0
+C1609,P2609,Aetna,3528,3475,Approved,2024-02-13,2024-03-13,,Cardiology,Illinois,29.0,0-30 Days,0
+C1610,P2610,Cigna,4498,4341,Approved,2024-04-04,2024-04-28,,Orthopedics,New York,24.0,0-30 Days,0
+C1611,P2611,Cigna,1785,0,Denied,2024-10-17,,Missing Documents,Orthopedics,Texas,510.0,90+ Days,1
+C1612,P2612,BlueCross,899,874,Approved,2024-02-04,2024-03-01,,Neurology,Illinois,26.0,0-30 Days,0
+C1613,P2613,UnitedHealth,3010,2985,Approved,2024-12-09,2025-01-03,,Radiology,New York,25.0,0-30 Days,0
+C1614,P2614,Cigna,1885,1728,Approved,2024-08-18,2024-09-18,,Radiology,Texas,31.0,31-60 Days,0
+C1615,P2615,Cigna,4933,4890,Approved,2024-06-10,2024-07-17,,Radiology,Florida,37.0,31-60 Days,0
+C1616,P2616,Aetna,2114,0,Denied,2024-11-24,,Authorization Required,Emergency,Florida,472.0,90+ Days,1
+C1617,P2617,Cigna,3016,0,Pending,2024-08-24,,,Emergency,Florida,564.0,90+ Days,0
+C1618,P2618,Humana,4289,4218,Approved,2024-03-30,2024-04-14,,Emergency,California,15.0,0-30 Days,0
+C1619,P2619,UnitedHealth,2456,0,Denied,2024-11-16,,Missing Documents,Radiology,Florida,480.0,90+ Days,1
+C1620,P2620,Aetna,555,0,Denied,2024-10-23,,Authorization Required,Cardiology,Illinois,504.0,90+ Days,1
+C1621,P2621,BlueCross,4818,4651,Approved,2024-10-03,2024-11-12,,Orthopedics,Texas,40.0,31-60 Days,0
+C1622,P2622,UnitedHealth,2129,0,Pending,2024-10-28,,,Emergency,New York,499.0,90+ Days,0
+C1623,P2623,Cigna,4405,4277,Approved,2024-07-22,2024-08-24,,Orthopedics,New York,33.0,31-60 Days,0
+C1624,P2624,Aetna,1658,0,Denied,2024-03-12,,Authorization Required,Orthopedics,Illinois,729.0,90+ Days,1
+C1625,P2625,UnitedHealth,4935,0,Denied,2024-03-15,,Authorization Required,Orthopedics,Illinois,726.0,90+ Days,1
+C1626,P2626,Cigna,4294,4235,Approved,2024-05-15,2024-06-17,,Cardiology,Florida,33.0,31-60 Days,0
+C1627,P2627,Aetna,3259,3249,Approved,2024-08-20,2024-09-01,,Orthopedics,Illinois,12.0,0-30 Days,0
+C1628,P2628,Cigna,2540,0,Denied,2024-05-14,,Duplicate Claim,Cardiology,Illinois,666.0,90+ Days,1
+C1629,P2629,BlueCross,3385,0,Denied,2024-07-06,,Duplicate Claim,Radiology,Florida,613.0,90+ Days,1
+C1630,P2630,Aetna,3382,0,Pending,2024-04-24,,,Radiology,California,686.0,90+ Days,0
+C1631,P2631,BlueCross,3126,2998,Approved,2024-09-03,2024-09-13,,Neurology,California,10.0,0-30 Days,0
+C1632,P2632,UnitedHealth,2184,2130,Approved,2024-11-25,2024-12-22,,Neurology,Florida,27.0,0-30 Days,0
+C1633,P2633,UnitedHealth,3267,3161,Approved,2024-03-01,2024-03-25,,Orthopedics,Florida,24.0,0-30 Days,0
+C1634,P2634,Cigna,4222,4057,Approved,2024-10-29,2024-11-18,,Cardiology,New York,20.0,0-30 Days,0
+C1635,P2635,Humana,653,619,Approved,2024-10-30,2024-11-19,,Cardiology,Florida,20.0,0-30 Days,0
+C1636,P2636,BlueCross,1503,1371,Approved,2024-05-12,2024-06-02,,Cardiology,Illinois,21.0,0-30 Days,0
+C1637,P2637,Humana,452,0,Pending,2024-12-04,,,Radiology,Illinois,462.0,90+ Days,0
+C1638,P2638,Cigna,3979,3936,Approved,2024-08-29,2024-10-08,,Cardiology,Florida,40.0,31-60 Days,0
+C1639,P2639,UnitedHealth,1469,0,Denied,2024-04-03,,Duplicate Claim,Neurology,Illinois,707.0,90+ Days,1
+C1640,P2640,BlueCross,3107,0,Pending,2024-11-01,,,Emergency,Florida,495.0,90+ Days,0
+C1641,P2641,BlueCross,3398,3347,Approved,2024-02-25,2024-03-07,,Cardiology,Florida,11.0,0-30 Days,0
+C1642,P2642,BlueCross,1525,1368,Approved,2024-03-31,2024-05-10,,Radiology,New York,40.0,31-60 Days,0
+C1643,P2643,BlueCross,4423,0,Denied,2024-02-17,,Authorization Required,Cardiology,Illinois,753.0,90+ Days,1
+C1644,P2644,UnitedHealth,309,0,Pending,2024-12-13,,,Radiology,Illinois,453.0,90+ Days,0
+C1645,P2645,Humana,3334,0,Pending,2024-12-23,,,Radiology,New York,443.0,90+ Days,0
+C1646,P2646,BlueCross,4249,0,Denied,2024-07-14,,Coding Error,Neurology,Florida,605.0,90+ Days,1
+C1647,P2647,BlueCross,3785,3764,Approved,2024-09-01,2024-09-25,,Radiology,Texas,24.0,0-30 Days,0
+C1648,P2648,Cigna,3647,3500,Approved,2024-01-03,2024-01-13,,Radiology,Illinois,10.0,0-30 Days,0
+C1649,P2649,BlueCross,358,254,Approved,2024-04-15,2024-05-15,,Cardiology,Illinois,30.0,0-30 Days,0
+C1650,P2650,Cigna,3790,0,Denied,2024-05-09,,Coding Error,Cardiology,Florida,671.0,90+ Days,1
+C1651,P2651,BlueCross,3295,3102,Approved,2024-12-14,2025-01-18,,Neurology,Illinois,35.0,31-60 Days,0
+C1652,P2652,UnitedHealth,4867,4725,Approved,2024-07-08,2024-08-22,,Neurology,Illinois,45.0,31-60 Days,0
+C1653,P2653,Humana,3120,0,Denied,2024-07-22,,Coverage Issue,Emergency,California,597.0,90+ Days,1
+C1654,P2654,Aetna,1625,1539,Approved,2024-09-17,2024-10-22,,Orthopedics,New York,35.0,31-60 Days,0
+C1655,P2655,BlueCross,1616,1593,Approved,2024-11-21,2024-12-01,,Radiology,Texas,10.0,0-30 Days,0
+C1656,P2656,UnitedHealth,3866,3772,Approved,2024-05-14,2024-06-07,,Neurology,Illinois,24.0,0-30 Days,0
+C1657,P2657,Aetna,3448,0,Pending,2024-07-24,,,Radiology,Texas,595.0,90+ Days,0
+C1658,P2658,BlueCross,770,0,Pending,2024-03-30,,,Radiology,California,711.0,90+ Days,0
+C1659,P2659,Humana,1952,0,Pending,2024-09-22,,,Neurology,Texas,535.0,90+ Days,0
+C1660,P2660,Cigna,4482,4310,Approved,2024-04-28,2024-05-18,,Orthopedics,Texas,20.0,0-30 Days,0
+C1661,P2661,Aetna,302,0,Pending,2024-02-14,,,Emergency,Florida,756.0,90+ Days,0
+C1662,P2662,Cigna,3537,3534,Approved,2024-04-12,2024-05-25,,Neurology,California,43.0,31-60 Days,0
+C1663,P2663,Aetna,2630,0,Denied,2024-10-13,,Duplicate Claim,Cardiology,Illinois,514.0,90+ Days,1
+C1664,P2664,Cigna,2153,2050,Approved,2024-04-09,2024-05-18,,Emergency,California,39.0,31-60 Days,0
+C1665,P2665,BlueCross,1733,1715,Approved,2024-02-24,2024-04-09,,Cardiology,California,45.0,31-60 Days,0
+C1666,P2666,BlueCross,1258,0,Denied,2024-05-11,,Duplicate Claim,Emergency,California,669.0,90+ Days,1
+C1667,P2667,BlueCross,3389,3191,Approved,2024-05-04,2024-06-04,,Emergency,New York,31.0,31-60 Days,0
+C1668,P2668,Humana,524,427,Approved,2024-05-12,2024-05-26,,Neurology,Illinois,14.0,0-30 Days,0
+C1669,P2669,UnitedHealth,3678,0,Pending,2024-09-21,,,Orthopedics,California,536.0,90+ Days,0
+C1670,P2670,BlueCross,2333,2314,Approved,2024-07-23,2024-08-23,,Cardiology,California,31.0,31-60 Days,0
+C1671,P2671,BlueCross,2871,2825,Approved,2024-10-20,2024-11-16,,Orthopedics,New York,27.0,0-30 Days,0
+C1672,P2672,UnitedHealth,2223,0,Denied,2024-05-15,,Coverage Issue,Neurology,Florida,665.0,90+ Days,1
+C1673,P2673,UnitedHealth,3216,3196,Approved,2024-02-24,2024-03-12,,Orthopedics,Florida,17.0,0-30 Days,0
+C1674,P2674,Humana,4735,0,Pending,2024-09-03,,,Radiology,Texas,554.0,90+ Days,0
+C1675,P2675,Cigna,4333,0,Pending,2024-10-21,,,Radiology,California,506.0,90+ Days,0
+C1676,P2676,Cigna,4487,4474,Approved,2024-04-23,2024-05-11,,Neurology,Florida,18.0,0-30 Days,0
+C1677,P2677,BlueCross,4729,4554,Approved,2024-06-26,2024-07-31,,Neurology,New York,35.0,31-60 Days,0
+C1678,P2678,UnitedHealth,4545,4542,Approved,2024-12-18,2024-12-28,,Neurology,Texas,10.0,0-30 Days,0
+C1679,P2679,UnitedHealth,1125,1078,Approved,2024-11-09,2024-12-05,,Neurology,Illinois,26.0,0-30 Days,0
+C1680,P2680,BlueCross,2506,2413,Approved,2024-11-09,2024-12-10,,Emergency,Florida,31.0,31-60 Days,0
+C1681,P2681,UnitedHealth,2024,1922,Approved,2024-07-09,2024-08-11,,Neurology,New York,33.0,31-60 Days,0
+C1682,P2682,Cigna,4980,4955,Approved,2024-10-21,2024-11-14,,Neurology,Florida,24.0,0-30 Days,0
+C1683,P2683,Cigna,3840,0,Pending,2024-04-10,,,Orthopedics,Illinois,700.0,90+ Days,0
+C1684,P2684,UnitedHealth,379,218,Approved,2024-09-12,2024-09-30,,Orthopedics,New York,18.0,0-30 Days,0
+C1685,P2685,BlueCross,4286,4185,Approved,2024-10-14,2024-10-27,,Radiology,California,13.0,0-30 Days,0
+C1686,P2686,Aetna,2065,0,Denied,2024-08-31,,Missing Documents,Orthopedics,Texas,557.0,90+ Days,1
+C1687,P2687,Humana,3257,3169,Approved,2024-10-12,2024-11-07,,Emergency,California,26.0,0-30 Days,0
+C1688,P2688,Aetna,3176,0,Pending,2024-11-06,,,Neurology,Texas,490.0,90+ Days,0
+C1689,P2689,UnitedHealth,4710,4627,Approved,2024-05-25,2024-06-26,,Radiology,Illinois,32.0,31-60 Days,0
+C1690,P2690,BlueCross,942,781,Approved,2024-05-26,2024-07-04,,Neurology,New York,39.0,31-60 Days,0
+C1691,P2691,UnitedHealth,3755,3737,Approved,2024-10-19,2024-11-23,,Orthopedics,California,35.0,31-60 Days,0
+C1692,P2692,Aetna,2169,1988,Approved,2024-11-30,2024-12-28,,Orthopedics,California,28.0,0-30 Days,0
+C1693,P2693,Cigna,2522,0,Pending,2024-07-04,,,Radiology,New York,615.0,90+ Days,0
+C1694,P2694,BlueCross,3691,3505,Approved,2024-01-12,2024-01-30,,Radiology,New York,18.0,0-30 Days,0
+C1695,P2695,UnitedHealth,2025,2009,Approved,2024-02-22,2024-03-09,,Emergency,Texas,16.0,0-30 Days,0
+C1696,P2696,Humana,515,0,Denied,2024-09-25,,Missing Documents,Radiology,Texas,532.0,90+ Days,1
+C1697,P2697,Aetna,1572,1514,Approved,2024-07-18,2024-08-16,,Emergency,Illinois,29.0,0-30 Days,0
+C1698,P2698,UnitedHealth,1335,1327,Approved,2024-03-28,2024-04-08,,Emergency,New York,11.0,0-30 Days,0
+C1699,P2699,Cigna,4127,0,Pending,2024-10-03,,,Emergency,New York,524.0,90+ Days,0
+C1700,P2700,Cigna,1406,0,Pending,2024-12-23,,,Radiology,New York,443.0,90+ Days,0
+C1701,P2701,BlueCross,4040,3906,Approved,2024-11-21,2024-12-28,,Orthopedics,Illinois,37.0,31-60 Days,0
+C1702,P2702,BlueCross,4245,4167,Approved,2024-02-15,2024-03-24,,Emergency,California,38.0,31-60 Days,0
+C1703,P2703,Cigna,1575,1381,Approved,2024-01-01,2024-02-13,,Neurology,California,43.0,31-60 Days,0
+C1704,P2704,UnitedHealth,4143,3950,Approved,2024-12-18,2025-01-28,,Emergency,California,41.0,31-60 Days,0
+C1705,P2705,Humana,3826,0,Denied,2024-11-01,,Coverage Issue,Emergency,Texas,495.0,90+ Days,1
+C1706,P2706,Aetna,1844,1743,Approved,2024-10-14,2024-11-20,,Radiology,California,37.0,31-60 Days,0
+C1707,P2707,UnitedHealth,3399,3239,Approved,2024-02-10,2024-03-18,,Orthopedics,New York,37.0,31-60 Days,0
+C1708,P2708,UnitedHealth,2527,2422,Approved,2024-09-29,2024-10-26,,Radiology,Illinois,27.0,0-30 Days,0
+C1709,P2709,UnitedHealth,1419,1261,Approved,2024-11-22,2024-12-31,,Cardiology,Florida,39.0,31-60 Days,0
+C1710,P2710,Humana,4330,4318,Approved,2024-01-10,2024-01-29,,Emergency,Illinois,19.0,0-30 Days,0
+C1711,P2711,BlueCross,1137,951,Approved,2024-03-05,2024-04-12,,Cardiology,Florida,38.0,31-60 Days,0
+C1712,P2712,Aetna,1534,1427,Approved,2024-04-21,2024-05-22,,Orthopedics,Texas,31.0,31-60 Days,0
+C1713,P2713,Cigna,4098,0,Denied,2024-01-17,,Coding Error,Neurology,California,784.0,90+ Days,1
+C1714,P2714,Aetna,2483,0,Denied,2024-02-06,,Duplicate Claim,Orthopedics,Texas,764.0,90+ Days,1
+C1715,P2715,Humana,2348,0,Denied,2024-01-07,,Missing Documents,Orthopedics,Florida,794.0,90+ Days,1
+C1716,P2716,UnitedHealth,2324,0,Denied,2024-01-18,,Coverage Issue,Neurology,New York,783.0,90+ Days,1
+C1717,P2717,Humana,2007,1925,Approved,2024-12-14,2025-01-12,,Cardiology,Illinois,29.0,0-30 Days,0
+C1718,P2718,UnitedHealth,4567,4517,Approved,2024-09-03,2024-10-02,,Cardiology,Illinois,29.0,0-30 Days,0
+C1719,P2719,Cigna,1225,1222,Approved,2024-08-10,2024-09-09,,Cardiology,Florida,30.0,0-30 Days,0
+C1720,P2720,UnitedHealth,1280,1270,Approved,2024-05-04,2024-05-14,,Emergency,Illinois,10.0,0-30 Days,0
+C1721,P2721,BlueCross,1569,1529,Approved,2024-02-15,2024-03-11,,Neurology,Illinois,25.0,0-30 Days,0
+C1722,P2722,Humana,3072,0,Pending,2024-11-16,,,Cardiology,Illinois,480.0,90+ Days,0
+C1723,P2723,Aetna,1560,0,Denied,2024-02-24,,Coverage Issue,Cardiology,California,746.0,90+ Days,1
+C1724,P2724,Humana,4874,0,Denied,2024-06-26,,Authorization Required,Orthopedics,California,623.0,90+ Days,1
+C1725,P2725,UnitedHealth,3234,0,Denied,2024-05-08,,Missing Documents,Cardiology,New York,672.0,90+ Days,1
+C1726,P2726,Humana,2714,2569,Approved,2024-09-07,2024-09-29,,Neurology,Illinois,22.0,0-30 Days,0
+C1727,P2727,UnitedHealth,2951,0,Denied,2024-05-20,,Duplicate Claim,Radiology,California,660.0,90+ Days,1
+C1728,P2728,BlueCross,4651,4513,Approved,2024-05-31,2024-06-26,,Orthopedics,Texas,26.0,0-30 Days,0
+C1729,P2729,Cigna,4444,4286,Approved,2024-04-04,2024-04-15,,Neurology,Texas,11.0,0-30 Days,0
+C1730,P2730,Cigna,2927,0,Denied,2024-12-03,,Duplicate Claim,Radiology,Florida,463.0,90+ Days,1
+C1731,P2731,Humana,4375,0,Denied,2024-03-19,,Duplicate Claim,Orthopedics,Illinois,722.0,90+ Days,1
+C1732,P2732,Cigna,2938,2927,Approved,2024-09-24,2024-10-08,,Emergency,New York,14.0,0-30 Days,0
+C1733,P2733,UnitedHealth,1955,1947,Approved,2024-04-08,2024-04-24,,Orthopedics,Texas,16.0,0-30 Days,0
+C1734,P2734,BlueCross,4607,4595,Approved,2024-10-29,2024-11-24,,Neurology,New York,26.0,0-30 Days,0
+C1735,P2735,Cigna,880,860,Approved,2024-04-16,2024-05-27,,Orthopedics,Illinois,41.0,31-60 Days,0
+C1736,P2736,Humana,4871,0,Denied,2024-07-31,,Coding Error,Cardiology,California,588.0,90+ Days,1
+C1737,P2737,Aetna,4633,4614,Approved,2024-02-06,2024-03-06,,Radiology,California,29.0,0-30 Days,0
+C1738,P2738,UnitedHealth,1129,0,Denied,2024-09-29,,Authorization Required,Radiology,Texas,528.0,90+ Days,1
+C1739,P2739,UnitedHealth,2337,2146,Approved,2024-04-01,2024-05-16,,Orthopedics,Illinois,45.0,31-60 Days,0
+C1740,P2740,BlueCross,3232,0,Denied,2024-12-25,,Authorization Required,Neurology,Texas,441.0,90+ Days,1
+C1741,P2741,Aetna,4805,4669,Approved,2024-06-21,2024-07-11,,Orthopedics,Florida,20.0,0-30 Days,0
+C1742,P2742,BlueCross,2881,2776,Approved,2024-06-15,2024-07-18,,Neurology,California,33.0,31-60 Days,0
+C1743,P2743,Humana,2271,2075,Approved,2024-04-19,2024-05-23,,Emergency,Illinois,34.0,31-60 Days,0
+C1744,P2744,BlueCross,4006,3821,Approved,2024-07-22,2024-08-01,,Emergency,California,10.0,0-30 Days,0
+C1745,P2745,Aetna,433,357,Approved,2024-06-03,2024-06-13,,Emergency,Illinois,10.0,0-30 Days,0
+C1746,P2746,UnitedHealth,477,0,Denied,2024-12-19,,Coding Error,Orthopedics,California,447.0,90+ Days,1
+C1747,P2747,BlueCross,4974,0,Pending,2024-03-20,,,Radiology,Illinois,721.0,90+ Days,0
+C1748,P2748,Aetna,3213,3064,Approved,2024-05-15,2024-06-17,,Cardiology,New York,33.0,31-60 Days,0
+C1749,P2749,UnitedHealth,2760,2573,Approved,2024-07-23,2024-08-15,,Orthopedics,California,23.0,0-30 Days,0
+C1750,P2750,Aetna,1716,1564,Approved,2024-12-19,2025-01-04,,Emergency,New York,16.0,0-30 Days,0
+C1751,P2751,Cigna,3425,3336,Approved,2024-01-29,2024-02-29,,Cardiology,Illinois,31.0,31-60 Days,0
+C1752,P2752,Humana,2157,0,Denied,2024-11-04,,Missing Documents,Neurology,Texas,492.0,90+ Days,1
+C1753,P2753,Humana,4595,4512,Approved,2024-10-03,2024-10-22,,Cardiology,California,19.0,0-30 Days,0
+C1754,P2754,BlueCross,713,0,Denied,2024-07-20,,Authorization Required,Orthopedics,Florida,599.0,90+ Days,1
+C1755,P2755,BlueCross,1037,1000,Approved,2024-05-28,2024-07-02,,Radiology,Illinois,35.0,31-60 Days,0
+C1756,P2756,UnitedHealth,4198,4096,Approved,2024-01-26,2024-03-11,,Emergency,Texas,45.0,31-60 Days,0
+C1757,P2757,Cigna,4410,4215,Approved,2024-12-23,2025-01-10,,Cardiology,New York,18.0,0-30 Days,0
+C1758,P2758,UnitedHealth,1922,1779,Approved,2024-11-29,2024-12-21,,Neurology,Illinois,22.0,0-30 Days,0
+C1759,P2759,BlueCross,2285,2110,Approved,2024-08-08,2024-09-07,,Radiology,Florida,30.0,0-30 Days,0
+C1760,P2760,BlueCross,3688,3606,Approved,2024-06-27,2024-07-19,,Cardiology,Texas,22.0,0-30 Days,0
+C1761,P2761,Cigna,2797,2638,Approved,2024-06-28,2024-08-05,,Radiology,Texas,38.0,31-60 Days,0
+C1762,P2762,UnitedHealth,2212,2019,Approved,2024-07-10,2024-07-29,,Neurology,Texas,19.0,0-30 Days,0
+C1763,P2763,Aetna,2291,0,Pending,2024-03-16,,,Cardiology,Texas,725.0,90+ Days,0
+C1764,P2764,Cigna,1211,1127,Approved,2024-08-29,2024-09-09,,Cardiology,California,11.0,0-30 Days,0
+C1765,P2765,UnitedHealth,1969,1846,Approved,2024-05-12,2024-06-26,,Radiology,Florida,45.0,31-60 Days,0
+C1766,P2766,BlueCross,3385,3374,Approved,2024-12-05,2025-01-17,,Orthopedics,Texas,43.0,31-60 Days,0
+C1767,P2767,Cigna,2626,2613,Approved,2024-12-22,2025-01-18,,Orthopedics,Texas,27.0,0-30 Days,0
+C1768,P2768,Humana,3483,0,Denied,2024-12-05,,Coding Error,Cardiology,Texas,461.0,90+ Days,1
+C1769,P2769,Aetna,3466,3285,Approved,2024-07-13,2024-08-24,,Cardiology,California,42.0,31-60 Days,0
+C1770,P2770,Aetna,4654,4537,Approved,2024-04-11,2024-05-23,,Emergency,New York,42.0,31-60 Days,0
+C1771,P2771,BlueCross,2326,0,Pending,2024-06-05,,,Cardiology,Texas,644.0,90+ Days,0
+C1772,P2772,Cigna,1586,1496,Approved,2024-12-16,2025-01-17,,Neurology,New York,32.0,31-60 Days,0
+C1773,P2773,Cigna,2559,0,Denied,2024-11-16,,Coding Error,Orthopedics,Illinois,480.0,90+ Days,1
+C1774,P2774,Humana,2595,2427,Approved,2024-06-23,2024-07-28,,Cardiology,Illinois,35.0,31-60 Days,0
+C1775,P2775,UnitedHealth,4565,0,Pending,2024-11-09,,,Cardiology,New York,487.0,90+ Days,0
+C1776,P2776,UnitedHealth,4993,4879,Approved,2024-06-08,2024-07-09,,Neurology,Florida,31.0,31-60 Days,0
+C1777,P2777,BlueCross,1435,1400,Approved,2024-12-16,2025-01-07,,Orthopedics,Florida,22.0,0-30 Days,0
+C1778,P2778,Cigna,3823,0,Pending,2024-03-15,,,Radiology,Florida,726.0,90+ Days,0
+C1779,P2779,BlueCross,855,774,Approved,2024-03-01,2024-03-22,,Orthopedics,California,21.0,0-30 Days,0
+C1780,P2780,UnitedHealth,3691,0,Pending,2024-06-04,,,Cardiology,California,645.0,90+ Days,0
+C1781,P2781,Humana,1839,1644,Approved,2024-04-04,2024-04-15,,Emergency,Florida,11.0,0-30 Days,0
+C1782,P2782,BlueCross,4945,4886,Approved,2024-11-01,2024-11-25,,Radiology,California,24.0,0-30 Days,0
+C1783,P2783,Aetna,4204,4022,Approved,2024-11-05,2024-12-15,,Emergency,Texas,40.0,31-60 Days,0
+C1784,P2784,Cigna,4325,4268,Approved,2024-03-24,2024-04-15,,Orthopedics,New York,22.0,0-30 Days,0
+C1785,P2785,Aetna,2510,0,Pending,2024-04-23,,,Neurology,Texas,687.0,90+ Days,0
+C1786,P2786,UnitedHealth,1750,0,Pending,2024-08-12,,,Orthopedics,Texas,576.0,90+ Days,0
+C1787,P2787,BlueCross,4048,0,Pending,2024-08-06,,,Neurology,California,582.0,90+ Days,0
+C1788,P2788,Humana,3416,0,Denied,2024-07-20,,Duplicate Claim,Cardiology,Illinois,599.0,90+ Days,1
+C1789,P2789,BlueCross,4602,4469,Approved,2024-12-26,2025-01-07,,Radiology,Illinois,12.0,0-30 Days,0
+C1790,P2790,Aetna,647,0,Pending,2024-05-05,,,Neurology,New York,675.0,90+ Days,0
+C1791,P2791,BlueCross,621,573,Approved,2024-09-21,2024-10-04,,Radiology,New York,13.0,0-30 Days,0
+C1792,P2792,Cigna,2794,0,Denied,2024-05-26,,Authorization Required,Neurology,New York,654.0,90+ Days,1
+C1793,P2793,UnitedHealth,746,0,Denied,2024-03-13,,Authorization Required,Neurology,California,728.0,90+ Days,1
+C1794,P2794,Humana,1227,1193,Approved,2024-10-26,2024-12-09,,Cardiology,Illinois,44.0,31-60 Days,0
+C1795,P2795,Humana,3993,3877,Approved,2024-08-20,2024-09-11,,Neurology,California,22.0,0-30 Days,0
+C1796,P2796,Aetna,1643,0,Denied,2024-03-04,,Missing Documents,Emergency,California,737.0,90+ Days,1
+C1797,P2797,Aetna,998,842,Approved,2024-07-15,2024-08-26,,Neurology,California,42.0,31-60 Days,0
+C1798,P2798,UnitedHealth,3417,3273,Approved,2024-03-28,2024-04-28,,Neurology,Illinois,31.0,31-60 Days,0
+C1799,P2799,UnitedHealth,1765,0,Denied,2024-01-27,,Authorization Required,Orthopedics,Florida,774.0,90+ Days,1
+C1800,P2800,Cigna,2665,2614,Approved,2024-03-01,2024-03-19,,Emergency,New York,18.0,0-30 Days,0
+C1801,P2801,Aetna,400,399,Approved,2024-09-12,2024-10-26,,Radiology,California,44.0,31-60 Days,0
+C1802,P2802,BlueCross,2076,1972,Approved,2024-08-31,2024-10-09,,Neurology,Florida,39.0,31-60 Days,0
+C1803,P2803,Humana,353,195,Approved,2024-10-07,2024-11-03,,Cardiology,Illinois,27.0,0-30 Days,0
+C1804,P2804,BlueCross,1814,1805,Approved,2024-11-30,2025-01-01,,Orthopedics,Texas,32.0,31-60 Days,0
+C1805,P2805,UnitedHealth,2744,2717,Approved,2024-02-14,2024-02-27,,Cardiology,Illinois,13.0,0-30 Days,0
+C1806,P2806,Humana,2629,2584,Approved,2024-12-20,2025-02-03,,Orthopedics,Florida,45.0,31-60 Days,0
+C1807,P2807,Humana,593,499,Approved,2024-06-02,2024-07-02,,Radiology,California,30.0,0-30 Days,0
+C1808,P2808,Humana,4809,4778,Approved,2024-08-29,2024-09-16,,Cardiology,New York,18.0,0-30 Days,0
+C1809,P2809,Cigna,3689,3533,Approved,2024-12-22,2025-01-14,,Emergency,Illinois,23.0,0-30 Days,0
+C1810,P2810,Aetna,4633,0,Pending,2024-09-04,,,Cardiology,Illinois,553.0,90+ Days,0
+C1811,P2811,BlueCross,2892,2859,Approved,2024-10-21,2024-11-22,,Emergency,New York,32.0,31-60 Days,0
+C1812,P2812,BlueCross,4557,0,Denied,2024-09-11,,Authorization Required,Radiology,New York,546.0,90+ Days,1
+C1813,P2813,UnitedHealth,2679,0,Pending,2024-01-01,,,Radiology,Florida,800.0,90+ Days,0
+C1814,P2814,Aetna,1266,0,Denied,2024-04-16,,Duplicate Claim,Cardiology,New York,694.0,90+ Days,1
+C1815,P2815,Humana,3034,3032,Approved,2024-11-22,2024-12-15,,Neurology,Texas,23.0,0-30 Days,0
+C1816,P2816,UnitedHealth,855,773,Approved,2024-09-16,2024-10-31,,Emergency,California,45.0,31-60 Days,0
+C1817,P2817,Aetna,3096,3052,Approved,2024-10-18,2024-10-29,,Cardiology,California,11.0,0-30 Days,0
+C1818,P2818,UnitedHealth,4224,0,Pending,2024-01-19,,,Emergency,California,782.0,90+ Days,0
+C1819,P2819,UnitedHealth,4073,0,Pending,2024-10-01,,,Neurology,Florida,526.0,90+ Days,0
+C1820,P2820,Cigna,758,0,Denied,2024-06-02,,Duplicate Claim,Neurology,New York,647.0,90+ Days,1
+C1821,P2821,Cigna,453,363,Approved,2024-12-16,2025-01-16,,Radiology,Illinois,31.0,31-60 Days,0
+C1822,P2822,Aetna,555,513,Approved,2024-07-11,2024-08-24,,Orthopedics,California,44.0,31-60 Days,0
+C1823,P2823,BlueCross,1835,1654,Approved,2024-06-06,2024-07-06,,Radiology,New York,30.0,0-30 Days,0
+C1824,P2824,Aetna,1011,896,Approved,2024-05-01,2024-06-03,,Emergency,New York,33.0,31-60 Days,0
+C1825,P2825,Cigna,2776,2577,Approved,2024-07-10,2024-07-22,,Orthopedics,Illinois,12.0,0-30 Days,0
+C1826,P2826,UnitedHealth,4445,4406,Approved,2024-09-04,2024-10-16,,Cardiology,New York,42.0,31-60 Days,0
+C1827,P2827,UnitedHealth,4589,4393,Approved,2024-06-16,2024-07-05,,Emergency,New York,19.0,0-30 Days,0
+C1828,P2828,Aetna,1980,0,Denied,2024-08-23,,Authorization Required,Radiology,Florida,565.0,90+ Days,1
+C1829,P2829,BlueCross,2847,0,Pending,2024-12-17,,,Cardiology,Texas,449.0,90+ Days,0
+C1830,P2830,BlueCross,4124,0,Pending,2024-02-22,,,Cardiology,California,748.0,90+ Days,0
+C1831,P2831,BlueCross,2857,2806,Approved,2024-04-17,2024-05-17,,Emergency,Texas,30.0,0-30 Days,0
+C1832,P2832,UnitedHealth,4660,4591,Approved,2024-08-13,2024-08-30,,Emergency,California,17.0,0-30 Days,0
+C1833,P2833,UnitedHealth,1237,1106,Approved,2024-11-14,2024-12-29,,Orthopedics,California,45.0,31-60 Days,0
+C1834,P2834,Aetna,3169,2989,Approved,2024-05-18,2024-06-06,,Orthopedics,Illinois,19.0,0-30 Days,0
+C1835,P2835,Cigna,1703,1565,Approved,2024-11-09,2024-12-10,,Radiology,Florida,31.0,31-60 Days,0
+C1836,P2836,Humana,537,510,Approved,2024-12-11,2024-12-24,,Cardiology,Florida,13.0,0-30 Days,0
+C1837,P2837,Humana,3793,3636,Approved,2024-12-26,2025-02-02,,Cardiology,Texas,38.0,31-60 Days,0
+C1838,P2838,Cigna,1923,0,Denied,2024-12-09,,Duplicate Claim,Emergency,California,457.0,90+ Days,1
+C1839,P2839,Aetna,1379,1355,Approved,2024-12-23,2025-01-31,,Neurology,Illinois,39.0,31-60 Days,0
+C1840,P2840,Humana,4154,3997,Approved,2024-04-24,2024-05-13,,Emergency,New York,19.0,0-30 Days,0
+C1841,P2841,Cigna,1802,0,Denied,2024-12-06,,Coding Error,Emergency,New York,460.0,90+ Days,1
+C1842,P2842,Cigna,547,425,Approved,2024-02-27,2024-03-30,,Neurology,New York,32.0,31-60 Days,0
+C1843,P2843,Humana,3155,3129,Approved,2024-03-06,2024-04-17,,Orthopedics,California,42.0,31-60 Days,0
+C1844,P2844,Humana,4855,4737,Approved,2024-06-03,2024-07-17,,Cardiology,California,44.0,31-60 Days,0
+C1845,P2845,Humana,2254,2131,Approved,2024-10-07,2024-10-27,,Radiology,New York,20.0,0-30 Days,0
+C1846,P2846,Humana,2005,0,Denied,2024-10-29,,Authorization Required,Cardiology,California,498.0,90+ Days,1
+C1847,P2847,Humana,4760,0,Denied,2024-03-29,,Missing Documents,Radiology,California,712.0,90+ Days,1
+C1848,P2848,BlueCross,4092,4047,Approved,2024-02-19,2024-03-28,,Neurology,Texas,38.0,31-60 Days,0
+C1849,P2849,Cigna,1190,0,Denied,2024-11-01,,Authorization Required,Neurology,Texas,495.0,90+ Days,1
+C1850,P2850,Cigna,1041,848,Approved,2024-03-12,2024-03-22,,Neurology,Texas,10.0,0-30 Days,0
+C1851,P2851,UnitedHealth,4652,4602,Approved,2024-11-11,2024-12-19,,Orthopedics,New York,38.0,31-60 Days,0
+C1852,P2852,UnitedHealth,4971,0,Denied,2024-12-13,,Coding Error,Emergency,California,453.0,90+ Days,1
+C1853,P2853,Humana,366,334,Approved,2024-09-18,2024-10-23,,Emergency,Texas,35.0,31-60 Days,0
+C1854,P2854,Cigna,4796,0,Pending,2024-01-01,,,Cardiology,California,800.0,90+ Days,0
+C1855,P2855,BlueCross,2611,0,Pending,2024-04-30,,,Emergency,Texas,680.0,90+ Days,0
+C1856,P2856,Humana,2906,0,Denied,2024-07-26,,Authorization Required,Radiology,New York,593.0,90+ Days,1
+C1857,P2857,Humana,1720,1622,Approved,2024-04-06,2024-05-21,,Radiology,Florida,45.0,31-60 Days,0
+C1858,P2858,Cigna,2663,0,Pending,2024-12-09,,,Neurology,Florida,457.0,90+ Days,0
+C1859,P2859,UnitedHealth,887,719,Approved,2024-03-14,2024-04-24,,Orthopedics,Texas,41.0,31-60 Days,0
+C1860,P2860,Humana,1424,1246,Approved,2024-07-31,2024-09-08,,Orthopedics,Texas,39.0,31-60 Days,0
+C1861,P2861,BlueCross,1772,1657,Approved,2024-08-05,2024-09-19,,Neurology,Illinois,45.0,31-60 Days,0
+C1862,P2862,Humana,1822,1635,Approved,2024-01-04,2024-02-14,,Emergency,Florida,41.0,31-60 Days,0
+C1863,P2863,UnitedHealth,3665,0,Pending,2024-10-22,,,Radiology,California,505.0,90+ Days,0
+C1864,P2864,Cigna,4954,4806,Approved,2024-07-07,2024-07-24,,Cardiology,Texas,17.0,0-30 Days,0
+C1865,P2865,Humana,4612,0,Pending,2024-05-23,,,Cardiology,Florida,657.0,90+ Days,0
+C1866,P2866,Humana,4587,0,Pending,2024-02-15,,,Radiology,Texas,755.0,90+ Days,0
+C1867,P2867,UnitedHealth,4717,0,Denied,2024-06-08,,Duplicate Claim,Neurology,Texas,641.0,90+ Days,1
+C1868,P2868,Aetna,388,242,Approved,2024-09-19,2024-10-29,,Emergency,Illinois,40.0,31-60 Days,0
+C1869,P2869,Cigna,2713,2527,Approved,2024-01-19,2024-02-17,,Neurology,California,29.0,0-30 Days,0
+C1870,P2870,BlueCross,4176,4008,Approved,2024-10-20,2024-11-02,,Emergency,Texas,13.0,0-30 Days,0
+C1871,P2871,Cigna,2649,2630,Approved,2024-03-05,2024-04-16,,Radiology,Texas,42.0,31-60 Days,0
+C1872,P2872,Cigna,2601,2412,Approved,2024-05-11,2024-05-21,,Emergency,Florida,10.0,0-30 Days,0
+C1873,P2873,Aetna,1538,0,Denied,2024-07-08,,Coverage Issue,Radiology,Florida,611.0,90+ Days,1
+C1874,P2874,Cigna,1781,0,Denied,2024-01-17,,Coding Error,Orthopedics,New York,784.0,90+ Days,1
+C1875,P2875,Aetna,1562,0,Denied,2024-07-30,,Authorization Required,Orthopedics,Illinois,589.0,90+ Days,1
+C1876,P2876,UnitedHealth,2027,1863,Approved,2024-06-25,2024-07-08,,Neurology,Florida,13.0,0-30 Days,0
+C1877,P2877,Cigna,1672,1551,Approved,2024-08-31,2024-09-29,,Cardiology,Texas,29.0,0-30 Days,0
+C1878,P2878,BlueCross,3495,3384,Approved,2024-03-15,2024-04-27,,Orthopedics,New York,43.0,31-60 Days,0
+C1879,P2879,Aetna,3429,0,Denied,2024-09-28,,Missing Documents,Emergency,New York,529.0,90+ Days,1
+C1880,P2880,Aetna,3837,3752,Approved,2024-11-29,2024-12-26,,Radiology,California,27.0,0-30 Days,0
+C1881,P2881,Cigna,2391,0,Denied,2024-07-19,,Authorization Required,Emergency,Texas,600.0,90+ Days,1
+C1882,P2882,UnitedHealth,4559,4479,Approved,2024-12-19,2025-01-09,,Radiology,Florida,21.0,0-30 Days,0
+C1883,P2883,BlueCross,856,830,Approved,2024-02-20,2024-04-03,,Cardiology,Texas,43.0,31-60 Days,0
+C1884,P2884,Humana,2620,2462,Approved,2024-01-18,2024-01-29,,Emergency,Florida,11.0,0-30 Days,0
+C1885,P2885,Aetna,2076,0,Pending,2024-11-22,,,Cardiology,Illinois,474.0,90+ Days,0
+C1886,P2886,Aetna,1364,1336,Approved,2024-11-27,2024-12-18,,Cardiology,Texas,21.0,0-30 Days,0
+C1887,P2887,UnitedHealth,4125,0,Denied,2024-02-08,,Authorization Required,Emergency,California,762.0,90+ Days,1
+C1888,P2888,Cigna,2408,2210,Approved,2024-02-07,2024-03-05,,Neurology,California,27.0,0-30 Days,0
+C1889,P2889,Aetna,3025,0,Pending,2024-05-12,,,Neurology,New York,668.0,90+ Days,0
+C1890,P2890,Cigna,868,823,Approved,2024-04-12,2024-05-17,,Orthopedics,New York,35.0,31-60 Days,0
+C1891,P2891,Humana,4728,0,Denied,2024-04-21,,Duplicate Claim,Cardiology,Florida,689.0,90+ Days,1
+C1892,P2892,Aetna,1146,948,Approved,2024-02-06,2024-03-03,,Neurology,California,26.0,0-30 Days,0
+C1893,P2893,Humana,1519,0,Denied,2024-01-01,,Missing Documents,Cardiology,New York,800.0,90+ Days,1
+C1894,P2894,Humana,3001,0,Pending,2024-10-21,,,Emergency,Florida,506.0,90+ Days,0
+C1895,P2895,Aetna,4216,4159,Approved,2024-02-05,2024-03-20,,Radiology,New York,44.0,31-60 Days,0
+C1896,P2896,Aetna,1292,1118,Approved,2024-07-02,2024-08-02,,Neurology,New York,31.0,31-60 Days,0
+C1897,P2897,Cigna,1042,925,Approved,2024-06-23,2024-07-08,,Neurology,Texas,15.0,0-30 Days,0
+C1898,P2898,Cigna,4842,4766,Approved,2024-07-15,2024-08-06,,Orthopedics,Florida,22.0,0-30 Days,0
+C1899,P2899,Humana,4285,4097,Approved,2024-11-19,2024-12-27,,Cardiology,California,38.0,31-60 Days,0
+C1900,P2900,UnitedHealth,1881,1756,Approved,2024-10-30,2024-11-24,,Orthopedics,Texas,25.0,0-30 Days,0
+C1901,P2901,Humana,2820,2811,Approved,2024-08-18,2024-08-29,,Cardiology,Illinois,11.0,0-30 Days,0
+C1902,P2902,Cigna,650,533,Approved,2024-04-18,2024-05-31,,Cardiology,California,43.0,31-60 Days,0
+C1903,P2903,BlueCross,2208,0,Pending,2024-01-19,,,Orthopedics,Illinois,782.0,90+ Days,0
+C1904,P2904,UnitedHealth,4160,0,Pending,2024-11-12,,,Neurology,Texas,484.0,90+ Days,0
+C1905,P2905,Aetna,417,393,Approved,2024-01-26,2024-02-24,,Orthopedics,Florida,29.0,0-30 Days,0
+C1906,P2906,Humana,823,0,Denied,2024-02-24,,Missing Documents,Radiology,Florida,746.0,90+ Days,1
+C1907,P2907,Humana,2106,2020,Approved,2024-04-13,2024-05-20,,Radiology,Illinois,37.0,31-60 Days,0
+C1908,P2908,Humana,4771,4620,Approved,2024-04-19,2024-05-01,,Emergency,Texas,12.0,0-30 Days,0
+C1909,P2909,UnitedHealth,1289,1111,Approved,2024-07-31,2024-08-20,,Emergency,Texas,20.0,0-30 Days,0
+C1910,P2910,Cigna,3893,3859,Approved,2024-10-24,2024-11-05,,Radiology,Florida,12.0,0-30 Days,0
+C1911,P2911,Aetna,1592,1591,Approved,2024-09-06,2024-09-21,,Radiology,New York,15.0,0-30 Days,0
+C1912,P2912,Aetna,2624,2572,Approved,2024-08-31,2024-09-18,,Orthopedics,Texas,18.0,0-30 Days,0
+C1913,P2913,UnitedHealth,3989,3837,Approved,2024-03-30,2024-04-11,,Emergency,Illinois,12.0,0-30 Days,0
+C1914,P2914,UnitedHealth,1021,914,Approved,2024-06-03,2024-07-05,,Neurology,Illinois,32.0,31-60 Days,0
+C1915,P2915,Aetna,1872,1714,Approved,2024-09-28,2024-10-14,,Radiology,Florida,16.0,0-30 Days,0
+C1916,P2916,Cigna,2096,2026,Approved,2024-11-16,2024-12-09,,Radiology,Illinois,23.0,0-30 Days,0
+C1917,P2917,Aetna,1522,0,Denied,2024-08-30,,Authorization Required,Orthopedics,Texas,558.0,90+ Days,1
+C1918,P2918,UnitedHealth,742,631,Approved,2024-05-25,2024-06-17,,Orthopedics,Texas,23.0,0-30 Days,0
+C1919,P2919,Cigna,4012,3967,Approved,2024-01-27,2024-03-11,,Emergency,Illinois,44.0,31-60 Days,0
+C1920,P2920,UnitedHealth,4518,4367,Approved,2024-04-30,2024-06-07,,Cardiology,New York,38.0,31-60 Days,0
+C1921,P2921,BlueCross,1928,0,Denied,2024-06-15,,Coverage Issue,Emergency,New York,634.0,90+ Days,1
+C1922,P2922,Aetna,1103,1007,Approved,2024-07-30,2024-08-21,,Emergency,Florida,22.0,0-30 Days,0
+C1923,P2923,UnitedHealth,4268,4213,Approved,2024-08-11,2024-08-30,,Cardiology,New York,19.0,0-30 Days,0
+C1924,P2924,BlueCross,3473,3312,Approved,2024-08-22,2024-09-13,,Neurology,Florida,22.0,0-30 Days,0
+C1925,P2925,Cigna,3051,2980,Approved,2024-12-20,2025-01-02,,Emergency,Florida,13.0,0-30 Days,0
+C1926,P2926,UnitedHealth,4056,3981,Approved,2024-06-24,2024-07-18,,Cardiology,New York,24.0,0-30 Days,0
+C1927,P2927,BlueCross,1692,1670,Approved,2024-10-10,2024-11-03,,Orthopedics,Illinois,24.0,0-30 Days,0
+C1928,P2928,Humana,2073,2070,Approved,2024-08-24,2024-09-20,,Radiology,New York,27.0,0-30 Days,0
+C1929,P2929,Humana,2981,2835,Approved,2024-04-23,2024-05-12,,Orthopedics,Florida,19.0,0-30 Days,0
+C1930,P2930,Aetna,628,0,Pending,2024-09-15,,,Neurology,Texas,542.0,90+ Days,0
+C1931,P2931,Aetna,3530,3415,Approved,2024-12-22,2025-01-07,,Neurology,Illinois,16.0,0-30 Days,0
+C1932,P2932,Humana,4875,0,Denied,2024-12-20,,Authorization Required,Orthopedics,Texas,446.0,90+ Days,1
+C1933,P2933,UnitedHealth,2723,2601,Approved,2024-02-16,2024-02-27,,Orthopedics,California,11.0,0-30 Days,0
+C1934,P2934,Cigna,4972,0,Denied,2024-01-13,,Authorization Required,Orthopedics,New York,788.0,90+ Days,1
+C1935,P2935,Humana,1815,0,Denied,2024-07-08,,Authorization Required,Orthopedics,New York,611.0,90+ Days,1
+C1936,P2936,Aetna,3027,2835,Approved,2024-05-31,2024-07-07,,Cardiology,New York,37.0,31-60 Days,0
+C1937,P2937,Cigna,1996,0,Denied,2024-02-11,,Duplicate Claim,Radiology,Illinois,759.0,90+ Days,1
+C1938,P2938,Cigna,3281,0,Pending,2024-02-26,,,Cardiology,Illinois,744.0,90+ Days,0
+C1939,P2939,Humana,634,454,Approved,2024-03-30,2024-05-14,,Emergency,New York,45.0,31-60 Days,0
+C1940,P2940,Aetna,1433,0,Pending,2024-05-02,,,Radiology,Florida,678.0,90+ Days,0
+C1941,P2941,BlueCross,2018,0,Denied,2024-04-25,,Coding Error,Cardiology,New York,685.0,90+ Days,1
+C1942,P2942,Cigna,3764,3676,Approved,2024-02-02,2024-03-06,,Emergency,Illinois,33.0,31-60 Days,0
+C1943,P2943,Humana,4614,0,Denied,2024-08-28,,Duplicate Claim,Neurology,Illinois,560.0,90+ Days,1
+C1944,P2944,BlueCross,3315,0,Denied,2024-12-20,,Missing Documents,Emergency,New York,446.0,90+ Days,1
+C1945,P2945,UnitedHealth,956,937,Approved,2024-04-01,2024-04-29,,Neurology,Texas,28.0,0-30 Days,0
+C1946,P2946,Aetna,1217,0,Denied,2024-09-11,,Coverage Issue,Orthopedics,California,546.0,90+ Days,1
+C1947,P2947,UnitedHealth,2701,2668,Approved,2024-12-15,2025-01-28,,Radiology,Texas,44.0,31-60 Days,0
+C1948,P2948,Humana,3936,0,Denied,2024-01-11,,Coding Error,Emergency,New York,790.0,90+ Days,1
+C1949,P2949,UnitedHealth,2203,0,Denied,2024-09-23,,Coding Error,Cardiology,Texas,534.0,90+ Days,1
+C1950,P2950,Humana,2973,2833,Approved,2024-12-06,2025-01-18,,Radiology,California,43.0,31-60 Days,0
+C1951,P2951,Humana,4946,4880,Approved,2024-06-05,2024-06-25,,Neurology,California,20.0,0-30 Days,0
+C1952,P2952,UnitedHealth,2660,0,Denied,2024-01-25,,Coverage Issue,Neurology,California,776.0,90+ Days,1
+C1953,P2953,Cigna,1662,1589,Approved,2024-03-23,2024-05-06,,Emergency,New York,44.0,31-60 Days,0
+C1954,P2954,UnitedHealth,1620,1473,Approved,2024-01-22,2024-02-21,,Orthopedics,Florida,30.0,0-30 Days,0
+C1955,P2955,UnitedHealth,3328,3158,Approved,2024-10-14,2024-10-26,,Neurology,California,12.0,0-30 Days,0
+C1956,P2956,Cigna,3354,3277,Approved,2024-03-24,2024-05-07,,Emergency,Florida,44.0,31-60 Days,0
+C1957,P2957,Aetna,4391,0,Denied,2024-08-22,,Coding Error,Cardiology,New York,566.0,90+ Days,1
+C1958,P2958,UnitedHealth,4456,4335,Approved,2024-12-27,2025-01-24,,Cardiology,Illinois,28.0,0-30 Days,0
+C1959,P2959,Cigna,4930,0,Denied,2024-08-14,,Coding Error,Radiology,Florida,574.0,90+ Days,1
+C1960,P2960,Aetna,1442,0,Denied,2024-02-29,,Coding Error,Neurology,Texas,741.0,90+ Days,1
+C1961,P2961,Aetna,2105,2091,Approved,2024-02-17,2024-03-18,,Neurology,Illinois,30.0,0-30 Days,0
+C1962,P2962,BlueCross,4612,4607,Approved,2024-05-22,2024-06-13,,Orthopedics,Illinois,22.0,0-30 Days,0
+C1963,P2963,Aetna,1015,0,Pending,2024-07-20,,,Radiology,New York,599.0,90+ Days,0
+C1964,P2964,UnitedHealth,4490,0,Pending,2024-12-07,,,Neurology,California,459.0,90+ Days,0
+C1965,P2965,Cigna,3803,3731,Approved,2024-07-09,2024-07-19,,Neurology,Florida,10.0,0-30 Days,0
+C1966,P2966,Cigna,3950,0,Pending,2024-02-14,,,Emergency,California,756.0,90+ Days,0
+C1967,P2967,UnitedHealth,3924,3889,Approved,2024-08-05,2024-09-10,,Neurology,New York,36.0,31-60 Days,0
+C1968,P2968,BlueCross,1476,1391,Approved,2024-08-31,2024-10-13,,Radiology,Texas,43.0,31-60 Days,0
+C1969,P2969,Aetna,1024,918,Approved,2024-11-23,2024-12-20,,Radiology,New York,27.0,0-30 Days,0
+C1970,P2970,UnitedHealth,4952,0,Denied,2024-03-11,,Coverage Issue,Radiology,New York,730.0,90+ Days,1
+C1971,P2971,UnitedHealth,4837,4711,Approved,2024-06-03,2024-07-02,,Neurology,California,29.0,0-30 Days,0
+C1972,P2972,BlueCross,519,0,Denied,2024-03-19,,Coding Error,Neurology,Florida,722.0,90+ Days,1
+C1973,P2973,Cigna,2656,2649,Approved,2024-09-08,2024-10-03,,Neurology,Texas,25.0,0-30 Days,0
+C1974,P2974,Aetna,846,702,Approved,2024-07-04,2024-08-13,,Emergency,New York,40.0,31-60 Days,0
+C1975,P2975,Humana,1279,1213,Approved,2024-10-21,2024-11-01,,Emergency,New York,11.0,0-30 Days,0
+C1976,P2976,UnitedHealth,1497,1406,Approved,2024-12-20,2025-01-07,,Radiology,Texas,18.0,0-30 Days,0
+C1977,P2977,UnitedHealth,3258,3184,Approved,2024-07-01,2024-07-14,,Cardiology,California,13.0,0-30 Days,0
+C1978,P2978,Cigna,4509,4314,Approved,2024-11-17,2024-12-08,,Radiology,Texas,21.0,0-30 Days,0
+C1979,P2979,Aetna,4754,4685,Approved,2024-06-10,2024-07-09,,Radiology,Florida,29.0,0-30 Days,0
+C1980,P2980,Cigna,3180,0,Denied,2024-01-07,,Coverage Issue,Cardiology,Illinois,794.0,90+ Days,1
+C1981,P2981,BlueCross,4272,4217,Approved,2024-03-24,2024-04-09,,Emergency,California,16.0,0-30 Days,0
+C1982,P2982,UnitedHealth,1843,0,Denied,2024-10-13,,Duplicate Claim,Radiology,Florida,514.0,90+ Days,1
+C1983,P2983,BlueCross,1233,1200,Approved,2024-02-09,2024-02-26,,Radiology,Illinois,17.0,0-30 Days,0
+C1984,P2984,Aetna,2852,0,Denied,2024-03-12,,Authorization Required,Neurology,California,729.0,90+ Days,1
+C1985,P2985,BlueCross,1710,0,Denied,2024-01-15,,Missing Documents,Radiology,California,786.0,90+ Days,1
+C1986,P2986,UnitedHealth,2156,2136,Approved,2024-04-17,2024-05-05,,Orthopedics,Florida,18.0,0-30 Days,0
+C1987,P2987,Humana,454,0,Denied,2024-08-08,,Missing Documents,Cardiology,Texas,580.0,90+ Days,1
+C1988,P2988,UnitedHealth,4506,4442,Approved,2024-08-28,2024-09-14,,Cardiology,Texas,17.0,0-30 Days,0
+C1989,P2989,Aetna,384,0,Denied,2024-03-04,,Duplicate Claim,Cardiology,California,737.0,90+ Days,1
+C1990,P2990,UnitedHealth,1813,0,Denied,2024-01-15,,Missing Documents,Radiology,Florida,786.0,90+ Days,1
+C1991,P2991,UnitedHealth,3149,3020,Approved,2024-09-13,2024-10-08,,Emergency,Illinois,25.0,0-30 Days,0
+C1992,P2992,BlueCross,414,371,Approved,2024-04-08,2024-05-06,,Cardiology,Texas,28.0,0-30 Days,0
+C1993,P2993,BlueCross,2053,0,Pending,2024-12-28,,,Cardiology,Texas,438.0,90+ Days,0
+C1994,P2994,Humana,1816,1726,Approved,2024-02-24,2024-03-16,,Emergency,Illinois,21.0,0-30 Days,0
+C1995,P2995,Humana,4512,4481,Approved,2024-02-27,2024-03-28,,Neurology,Florida,30.0,0-30 Days,0
+C1996,P2996,Humana,1413,1271,Approved,2024-07-03,2024-07-31,,Cardiology,Illinois,28.0,0-30 Days,0
+C1997,P2997,Aetna,4344,4191,Approved,2024-05-25,2024-07-03,,Cardiology,California,39.0,31-60 Days,0
+C1998,P2998,Cigna,4837,4820,Approved,2024-08-07,2024-08-29,,Neurology,Florida,22.0,0-30 Days,0
+C1999,P2999,Humana,404,0,Pending,2024-09-08,,,Emergency,Florida,549.0,90+ Days,0
+C2000,P3000,Aetna,4581,0,Denied,2024-02-13,,Missing Documents,Neurology,New York,757.0,90+ Days,1
+C2001,P3001,UnitedHealth,1133,0,Denied,2024-03-27,,Missing Documents,Neurology,New York,714.0,90+ Days,1
+C2002,P3002,Cigna,1940,1881,Approved,2024-07-25,2024-08-11,,Orthopedics,California,17.0,0-30 Days,0
+C2003,P3003,Humana,2536,0,Denied,2024-11-25,,Authorization Required,Neurology,California,471.0,90+ Days,1
+C2004,P3004,Cigna,3613,0,Pending,2024-09-18,,,Neurology,Illinois,539.0,90+ Days,0
+C2005,P3005,Cigna,1185,1126,Approved,2024-09-07,2024-10-18,,Orthopedics,New York,41.0,31-60 Days,0
+C2006,P3006,UnitedHealth,732,0,Denied,2024-09-12,,Missing Documents,Cardiology,Texas,545.0,90+ Days,1
+C2007,P3007,UnitedHealth,2978,2784,Approved,2024-11-14,2024-11-30,,Neurology,Illinois,16.0,0-30 Days,0
+C2008,P3008,Aetna,4117,3992,Approved,2024-12-04,2025-01-14,,Radiology,New York,41.0,31-60 Days,0
+C2009,P3009,BlueCross,3114,0,Denied,2024-10-03,,Duplicate Claim,Emergency,Illinois,524.0,90+ Days,1
+C2010,P3010,Aetna,1275,1162,Approved,2024-06-10,2024-07-14,,Cardiology,New York,34.0,31-60 Days,0
+C2011,P3011,Humana,1748,1623,Approved,2024-06-04,2024-06-24,,Cardiology,Texas,20.0,0-30 Days,0
+C2012,P3012,Humana,3487,3319,Approved,2024-02-26,2024-04-07,,Orthopedics,California,41.0,31-60 Days,0
+C2013,P3013,BlueCross,4148,4134,Approved,2024-03-21,2024-05-02,,Radiology,Illinois,42.0,31-60 Days,0
+C2014,P3014,Humana,3394,3312,Approved,2024-06-29,2024-07-27,,Emergency,New York,28.0,0-30 Days,0
+C2015,P3015,Aetna,669,480,Approved,2024-07-06,2024-08-07,,Cardiology,Illinois,32.0,31-60 Days,0
+C2016,P3016,BlueCross,3417,3312,Approved,2024-06-25,2024-07-27,,Cardiology,California,32.0,31-60 Days,0
+C2017,P3017,Cigna,2328,2152,Approved,2024-06-08,2024-06-23,,Cardiology,Florida,15.0,0-30 Days,0
+C2018,P3018,Aetna,3065,3056,Approved,2024-10-02,2024-11-01,,Emergency,Texas,30.0,0-30 Days,0
+C2019,P3019,Humana,4516,0,Pending,2024-05-16,,,Neurology,Illinois,664.0,90+ Days,0
+C2020,P3020,Aetna,482,0,Pending,2024-07-12,,,Neurology,Illinois,607.0,90+ Days,0
+C2021,P3021,BlueCross,4990,4814,Approved,2024-09-07,2024-09-23,,Neurology,California,16.0,0-30 Days,0
+C2022,P3022,UnitedHealth,4418,0,Denied,2024-12-07,,Coding Error,Emergency,New York,459.0,90+ Days,1
+C2023,P3023,UnitedHealth,3276,0,Pending,2024-04-13,,,Radiology,California,697.0,90+ Days,0
+C2024,P3024,Humana,2053,1907,Approved,2024-01-25,2024-02-23,,Cardiology,Illinois,29.0,0-30 Days,0
+C2025,P3025,Humana,1053,0,Denied,2024-10-23,,Missing Documents,Orthopedics,Illinois,504.0,90+ Days,1
+C2026,P3026,BlueCross,851,742,Approved,2024-09-28,2024-11-07,,Emergency,California,40.0,31-60 Days,0
+C2027,P3027,UnitedHealth,2772,2603,Approved,2024-06-02,2024-07-09,,Emergency,Texas,37.0,31-60 Days,0
+C2028,P3028,BlueCross,3694,3578,Approved,2024-11-15,2024-12-27,,Emergency,Florida,42.0,31-60 Days,0
+C2029,P3029,BlueCross,4528,0,Pending,2024-10-22,,,Orthopedics,Texas,505.0,90+ Days,0
+C2030,P3030,Humana,2494,0,Pending,2024-09-29,,,Orthopedics,New York,528.0,90+ Days,0
+C2031,P3031,BlueCross,790,753,Approved,2024-07-05,2024-08-13,,Neurology,Illinois,39.0,31-60 Days,0
+C2032,P3032,UnitedHealth,3866,3761,Approved,2024-02-02,2024-02-25,,Orthopedics,California,23.0,0-30 Days,0
+C2033,P3033,Cigna,2400,0,Denied,2024-04-30,,Authorization Required,Emergency,Florida,680.0,90+ Days,1
+C2034,P3034,UnitedHealth,1872,1748,Approved,2024-06-07,2024-07-16,,Cardiology,Florida,39.0,31-60 Days,0
+C2035,P3035,BlueCross,603,596,Approved,2024-05-19,2024-06-06,,Neurology,New York,18.0,0-30 Days,0
+C2036,P3036,Cigna,1741,1541,Approved,2024-01-22,2024-03-03,,Emergency,Illinois,41.0,31-60 Days,0
+C2037,P3037,Aetna,2871,2778,Approved,2024-02-02,2024-03-09,,Cardiology,Texas,36.0,31-60 Days,0
+C2038,P3038,Aetna,2233,2100,Approved,2024-09-13,2024-09-30,,Neurology,Florida,17.0,0-30 Days,0
+C2039,P3039,BlueCross,4366,0,Pending,2024-05-01,,,Radiology,California,679.0,90+ Days,0
+C2040,P3040,BlueCross,2997,0,Denied,2024-07-18,,Coverage Issue,Cardiology,California,601.0,90+ Days,1
+C2041,P3041,Humana,1175,1071,Approved,2024-05-20,2024-06-27,,Orthopedics,Florida,38.0,31-60 Days,0
+C2042,P3042,Cigna,4317,4236,Approved,2024-12-24,2025-01-10,,Radiology,Texas,17.0,0-30 Days,0
+C2043,P3043,BlueCross,2318,0,Pending,2024-03-15,,,Neurology,New York,726.0,90+ Days,0
+C2044,P3044,Cigna,2824,2635,Approved,2024-11-06,2024-11-18,,Neurology,California,12.0,0-30 Days,0
+C2045,P3045,Aetna,4827,4652,Approved,2024-11-23,2024-12-26,,Orthopedics,California,33.0,31-60 Days,0
+C2046,P3046,Aetna,3924,3847,Approved,2024-07-20,2024-08-15,,Radiology,Florida,26.0,0-30 Days,0
+C2047,P3047,Aetna,2023,0,Pending,2024-03-23,,,Orthopedics,California,718.0,90+ Days,0
+C2048,P3048,Humana,577,457,Approved,2024-02-11,2024-03-23,,Emergency,New York,41.0,31-60 Days,0
+C2049,P3049,Humana,1122,0,Denied,2024-12-23,,Coding Error,Emergency,New York,443.0,90+ Days,1
+C2050,P3050,BlueCross,3747,3631,Approved,2024-10-07,2024-11-06,,Cardiology,California,30.0,0-30 Days,0
+C2051,P3051,Aetna,3932,0,Denied,2024-03-10,,Missing Documents,Cardiology,Florida,731.0,90+ Days,1
+C2052,P3052,Humana,2870,2807,Approved,2024-02-26,2024-03-17,,Orthopedics,California,20.0,0-30 Days,0
+C2053,P3053,BlueCross,3661,0,Denied,2024-06-12,,Authorization Required,Orthopedics,Illinois,637.0,90+ Days,1
+C2054,P3054,Humana,1721,0,Denied,2024-06-16,,Coding Error,Orthopedics,California,633.0,90+ Days,1
+C2055,P3055,UnitedHealth,3311,3306,Approved,2024-07-12,2024-08-05,,Cardiology,New York,24.0,0-30 Days,0
+C2056,P3056,Aetna,2173,0,Pending,2024-08-24,,,Radiology,Illinois,564.0,90+ Days,0
+C2057,P3057,UnitedHealth,707,669,Approved,2024-08-07,2024-09-02,,Emergency,Florida,26.0,0-30 Days,0
+C2058,P3058,Aetna,4946,4749,Approved,2024-09-26,2024-11-02,,Emergency,Florida,37.0,31-60 Days,0
+C2059,P3059,Humana,2138,0,Denied,2024-04-07,,Coding Error,Neurology,Texas,703.0,90+ Days,1
+C2060,P3060,Cigna,1366,1294,Approved,2024-04-15,2024-05-08,,Neurology,New York,23.0,0-30 Days,0
+C2061,P3061,UnitedHealth,3646,0,Denied,2024-01-15,,Coding Error,Neurology,Florida,786.0,90+ Days,1
+C2062,P3062,Cigna,3994,0,Pending,2024-07-08,,,Orthopedics,Illinois,611.0,90+ Days,0
+C2063,P3063,BlueCross,384,209,Approved,2024-06-14,2024-07-19,,Neurology,Texas,35.0,31-60 Days,0
+C2064,P3064,UnitedHealth,2399,2386,Approved,2024-10-12,2024-10-25,,Neurology,New York,13.0,0-30 Days,0
+C2065,P3065,Cigna,3202,0,Pending,2024-12-09,,,Orthopedics,New York,457.0,90+ Days,0
+C2066,P3066,BlueCross,2377,2276,Approved,2024-07-14,2024-08-12,,Cardiology,Texas,29.0,0-30 Days,0
+C2067,P3067,Cigna,636,508,Approved,2024-05-13,2024-06-02,,Orthopedics,Illinois,20.0,0-30 Days,0
+C2068,P3068,Humana,1380,1270,Approved,2024-12-29,2025-02-10,,Emergency,New York,43.0,31-60 Days,0
+C2069,P3069,UnitedHealth,2866,2795,Approved,2024-03-06,2024-04-16,,Emergency,Texas,41.0,31-60 Days,0
+C2070,P3070,Cigna,2456,2376,Approved,2024-05-15,2024-06-27,,Neurology,California,43.0,31-60 Days,0
+C2071,P3071,Humana,4324,0,Denied,2024-03-18,,Duplicate Claim,Orthopedics,California,723.0,90+ Days,1
+C2072,P3072,Humana,1517,1397,Approved,2024-04-03,2024-04-15,,Cardiology,Florida,12.0,0-30 Days,0
+C2073,P3073,Cigna,3875,3762,Approved,2024-09-10,2024-09-22,,Orthopedics,New York,12.0,0-30 Days,0
+C2074,P3074,Cigna,4049,3960,Approved,2024-03-16,2024-04-02,,Radiology,New York,17.0,0-30 Days,0
+C2075,P3075,Aetna,1779,0,Denied,2024-09-17,,Coding Error,Orthopedics,California,540.0,90+ Days,1
+C2076,P3076,BlueCross,333,227,Approved,2024-10-19,2024-11-09,,Radiology,Florida,21.0,0-30 Days,0
+C2077,P3077,Aetna,1072,0,Pending,2024-01-14,,,Orthopedics,New York,787.0,90+ Days,0
+C2078,P3078,Cigna,3360,3321,Approved,2024-02-24,2024-03-25,,Cardiology,New York,30.0,0-30 Days,0
+C2079,P3079,Aetna,4230,4146,Approved,2024-05-17,2024-05-27,,Cardiology,New York,10.0,0-30 Days,0
+C2080,P3080,Aetna,2961,0,Pending,2024-10-18,,,Radiology,New York,509.0,90+ Days,0
+C2081,P3081,UnitedHealth,2617,2477,Approved,2024-01-29,2024-02-12,,Orthopedics,Texas,14.0,0-30 Days,0
+C2082,P3082,BlueCross,3567,3545,Approved,2024-05-02,2024-06-06,,Neurology,Texas,35.0,31-60 Days,0
+C2083,P3083,Aetna,3482,0,Denied,2024-05-25,,Coverage Issue,Orthopedics,Florida,655.0,90+ Days,1
+C2084,P3084,Aetna,3841,0,Denied,2024-06-07,,Duplicate Claim,Emergency,New York,642.0,90+ Days,1
+C2085,P3085,UnitedHealth,3310,3211,Approved,2024-09-07,2024-10-15,,Emergency,Texas,38.0,31-60 Days,0
+C2086,P3086,Humana,3765,3608,Approved,2024-08-04,2024-09-06,,Emergency,Illinois,33.0,31-60 Days,0
+C2087,P3087,UnitedHealth,1061,888,Approved,2024-06-23,2024-08-01,,Neurology,New York,39.0,31-60 Days,0
+C2088,P3088,UnitedHealth,4619,4545,Approved,2024-09-25,2024-10-10,,Orthopedics,New York,15.0,0-30 Days,0
+C2089,P3089,Humana,4212,4149,Approved,2024-03-06,2024-04-04,,Neurology,Texas,29.0,0-30 Days,0
+C2090,P3090,BlueCross,4957,4826,Approved,2024-02-09,2024-02-21,,Neurology,California,12.0,0-30 Days,0
+C2091,P3091,Aetna,3683,3593,Approved,2024-12-04,2024-12-30,,Radiology,New York,26.0,0-30 Days,0
+C2092,P3092,Cigna,4424,4379,Approved,2024-12-04,2025-01-12,,Radiology,Texas,39.0,31-60 Days,0
+C2093,P3093,UnitedHealth,982,902,Approved,2024-12-26,2025-01-24,,Neurology,Texas,29.0,0-30 Days,0
+C2094,P3094,BlueCross,2471,2424,Approved,2024-04-05,2024-04-28,,Neurology,New York,23.0,0-30 Days,0
+C2095,P3095,Aetna,1171,1070,Approved,2024-01-10,2024-01-20,,Radiology,California,10.0,0-30 Days,0
+C2096,P3096,Aetna,4208,4131,Approved,2024-07-26,2024-09-05,,Cardiology,Florida,41.0,31-60 Days,0
+C2097,P3097,BlueCross,3535,0,Denied,2024-02-14,,Coverage Issue,Radiology,California,756.0,90+ Days,1
+C2098,P3098,UnitedHealth,1216,0,Denied,2024-12-22,,Coverage Issue,Cardiology,Florida,444.0,90+ Days,1
+C2099,P3099,Aetna,1489,1441,Approved,2024-08-11,2024-09-24,,Orthopedics,New York,44.0,31-60 Days,0
+C2100,P3100,Aetna,1513,1471,Approved,2024-01-12,2024-01-29,,Emergency,New York,17.0,0-30 Days,0
+C2101,P3101,UnitedHealth,4162,4111,Approved,2024-08-18,2024-09-12,,Neurology,New York,25.0,0-30 Days,0
+C2102,P3102,Cigna,717,611,Approved,2024-02-22,2024-03-30,,Radiology,New York,37.0,31-60 Days,0
+C2103,P3103,Humana,4840,0,Pending,2024-01-19,,,Radiology,Illinois,782.0,90+ Days,0
+C2104,P3104,Humana,4505,4446,Approved,2024-11-09,2024-12-20,,Neurology,New York,41.0,31-60 Days,0
+C2105,P3105,Aetna,3757,3689,Approved,2024-10-10,2024-10-24,,Radiology,Texas,14.0,0-30 Days,0
+C2106,P3106,Humana,4353,4239,Approved,2024-11-26,2024-12-28,,Neurology,Texas,32.0,31-60 Days,0
+C2107,P3107,Humana,2659,0,Denied,2024-08-28,,Coding Error,Cardiology,Florida,560.0,90+ Days,1
+C2108,P3108,Humana,2099,1945,Approved,2024-12-16,2025-01-16,,Orthopedics,Illinois,31.0,31-60 Days,0
+C2109,P3109,Humana,3497,0,Pending,2024-12-10,,,Orthopedics,California,456.0,90+ Days,0
+C2110,P3110,Cigna,1997,1964,Approved,2024-02-14,2024-03-25,,Neurology,Florida,40.0,31-60 Days,0
+C2111,P3111,UnitedHealth,4331,4254,Approved,2024-07-31,2024-09-10,,Orthopedics,Florida,41.0,31-60 Days,0
+C2112,P3112,UnitedHealth,685,0,Pending,2024-07-02,,,Orthopedics,Illinois,617.0,90+ Days,0
+C2113,P3113,Cigna,1731,0,Denied,2024-09-14,,Missing Documents,Emergency,Florida,543.0,90+ Days,1
+C2114,P3114,Aetna,1233,1176,Approved,2024-03-02,2024-04-16,,Emergency,New York,45.0,31-60 Days,0
+C2115,P3115,Humana,3210,0,Denied,2024-10-12,,Coding Error,Emergency,California,515.0,90+ Days,1
+C2116,P3116,UnitedHealth,1153,0,Denied,2024-08-12,,Authorization Required,Radiology,Illinois,576.0,90+ Days,1
+C2117,P3117,Aetna,1134,0,Denied,2024-01-22,,Duplicate Claim,Cardiology,Illinois,779.0,90+ Days,1
+C2118,P3118,Aetna,1982,0,Pending,2024-03-21,,,Orthopedics,Texas,720.0,90+ Days,0
+C2119,P3119,Cigna,4382,0,Denied,2024-02-20,,Coverage Issue,Neurology,Illinois,750.0,90+ Days,1
+C2120,P3120,Cigna,1307,0,Denied,2024-08-12,,Authorization Required,Emergency,Florida,576.0,90+ Days,1
+C2121,P3121,Aetna,3096,3028,Approved,2024-03-28,2024-04-12,,Orthopedics,New York,15.0,0-30 Days,0
+C2122,P3122,Cigna,2310,2252,Approved,2024-09-28,2024-11-03,,Neurology,California,36.0,31-60 Days,0
+C2123,P3123,UnitedHealth,3653,0,Pending,2024-09-21,,,Neurology,New York,536.0,90+ Days,0
+C2124,P3124,Cigna,1492,0,Denied,2024-09-21,,Missing Documents,Cardiology,New York,536.0,90+ Days,1
+C2125,P3125,Aetna,3590,0,Pending,2024-03-25,,,Emergency,California,716.0,90+ Days,0
+C2126,P3126,Humana,603,0,Denied,2024-11-24,,Coverage Issue,Cardiology,New York,472.0,90+ Days,1
+C2127,P3127,BlueCross,2722,2645,Approved,2024-12-14,2025-01-28,,Cardiology,Illinois,45.0,31-60 Days,0
+C2128,P3128,Cigna,2591,0,Pending,2024-11-08,,,Emergency,Texas,488.0,90+ Days,0
+C2129,P3129,UnitedHealth,1980,0,Pending,2024-11-15,,,Neurology,New York,481.0,90+ Days,0
+C2130,P3130,BlueCross,3613,0,Denied,2024-06-03,,Missing Documents,Neurology,California,646.0,90+ Days,1
+C2131,P3131,Aetna,3494,0,Denied,2024-03-05,,Duplicate Claim,Radiology,California,736.0,90+ Days,1
+C2132,P3132,BlueCross,1060,973,Approved,2024-06-08,2024-07-21,,Emergency,Florida,43.0,31-60 Days,0
+C2133,P3133,UnitedHealth,4723,4538,Approved,2024-05-03,2024-06-01,,Cardiology,Texas,29.0,0-30 Days,0
+C2134,P3134,Humana,791,0,Denied,2024-05-12,,Duplicate Claim,Radiology,Texas,668.0,90+ Days,1
+C2135,P3135,Cigna,1321,1205,Approved,2024-10-20,2024-10-30,,Cardiology,Texas,10.0,0-30 Days,0
+C2136,P3136,Cigna,4933,0,Denied,2024-11-17,,Duplicate Claim,Orthopedics,Illinois,479.0,90+ Days,1
+C2137,P3137,BlueCross,2751,2569,Approved,2024-10-20,2024-11-07,,Orthopedics,California,18.0,0-30 Days,0
+C2138,P3138,Humana,1162,963,Approved,2024-10-25,2024-11-16,,Radiology,Florida,22.0,0-30 Days,0
+C2139,P3139,Cigna,1500,0,Denied,2024-07-29,,Missing Documents,Neurology,Texas,590.0,90+ Days,1
+C2140,P3140,Aetna,1365,1271,Approved,2024-08-16,2024-08-30,,Cardiology,New York,14.0,0-30 Days,0
+C2141,P3141,BlueCross,4879,4730,Approved,2024-07-21,2024-08-16,,Neurology,Illinois,26.0,0-30 Days,0
+C2142,P3142,Humana,4310,0,Denied,2024-08-01,,Coverage Issue,Neurology,New York,587.0,90+ Days,1
+C2143,P3143,UnitedHealth,4271,0,Denied,2024-03-07,,Duplicate Claim,Radiology,Florida,734.0,90+ Days,1
+C2144,P3144,BlueCross,4030,3936,Approved,2024-03-21,2024-05-05,,Cardiology,Florida,45.0,31-60 Days,0
+C2145,P3145,Aetna,1203,1193,Approved,2024-10-19,2024-11-16,,Radiology,New York,28.0,0-30 Days,0
+C2146,P3146,BlueCross,3343,3268,Approved,2024-07-10,2024-08-08,,Orthopedics,Texas,29.0,0-30 Days,0
+C2147,P3147,Humana,1464,0,Denied,2024-08-03,,Missing Documents,Cardiology,Florida,585.0,90+ Days,1
+C2148,P3148,Cigna,1799,0,Denied,2024-09-07,,Missing Documents,Emergency,Florida,550.0,90+ Days,1
+C2149,P3149,Aetna,853,0,Pending,2024-08-01,,,Radiology,California,587.0,90+ Days,0
+C2150,P3150,Humana,4934,4813,Approved,2024-06-21,2024-07-25,,Radiology,California,34.0,31-60 Days,0
+C2151,P3151,BlueCross,4435,4397,Approved,2024-08-18,2024-09-25,,Orthopedics,Florida,38.0,31-60 Days,0
+C2152,P3152,Cigna,3655,3517,Approved,2024-07-21,2024-08-21,,Cardiology,Illinois,31.0,31-60 Days,0
+C2153,P3153,Aetna,1025,0,Pending,2024-12-28,,,Neurology,California,438.0,90+ Days,0
+C2154,P3154,Aetna,4896,4875,Approved,2024-11-25,2025-01-09,,Radiology,California,45.0,31-60 Days,0
+C2155,P3155,UnitedHealth,733,0,Pending,2024-09-24,,,Radiology,Illinois,533.0,90+ Days,0
+C2156,P3156,UnitedHealth,452,448,Approved,2024-09-29,2024-10-20,,Neurology,Illinois,21.0,0-30 Days,0
+C2157,P3157,Cigna,3939,3837,Approved,2024-09-30,2024-10-30,,Orthopedics,Florida,30.0,0-30 Days,0
+C2158,P3158,BlueCross,490,484,Approved,2024-04-02,2024-05-08,,Cardiology,New York,36.0,31-60 Days,0
+C2159,P3159,BlueCross,2406,2363,Approved,2024-02-20,2024-04-04,,Emergency,New York,44.0,31-60 Days,0
+C2160,P3160,Cigna,2393,0,Denied,2024-03-19,,Coding Error,Orthopedics,Florida,722.0,90+ Days,1
+C2161,P3161,Humana,2964,2888,Approved,2024-12-31,2025-01-13,,Orthopedics,Texas,13.0,0-30 Days,0
+C2162,P3162,Humana,1467,1371,Approved,2024-06-14,2024-07-10,,Cardiology,California,26.0,0-30 Days,0
+C2163,P3163,Aetna,2262,0,Denied,2024-10-27,,Coverage Issue,Cardiology,Florida,500.0,90+ Days,1
+C2164,P3164,Humana,3454,0,Pending,2024-05-17,,,Radiology,Illinois,663.0,90+ Days,0
+C2165,P3165,Aetna,4831,4727,Approved,2024-09-04,2024-09-15,,Emergency,New York,11.0,0-30 Days,0
+C2166,P3166,UnitedHealth,4838,0,Pending,2024-12-11,,,Cardiology,California,455.0,90+ Days,0
+C2167,P3167,Aetna,1328,1307,Approved,2024-07-27,2024-09-03,,Orthopedics,Illinois,38.0,31-60 Days,0
+C2168,P3168,BlueCross,3358,3221,Approved,2024-03-27,2024-04-21,,Orthopedics,Florida,25.0,0-30 Days,0
+C2169,P3169,Humana,642,475,Approved,2024-08-25,2024-09-22,,Radiology,New York,28.0,0-30 Days,0
+C2170,P3170,UnitedHealth,4250,4161,Approved,2024-05-08,2024-06-11,,Cardiology,Texas,34.0,31-60 Days,0
+C2171,P3171,UnitedHealth,2604,2528,Approved,2024-09-30,2024-10-14,,Radiology,Illinois,14.0,0-30 Days,0
+C2172,P3172,Aetna,1444,0,Denied,2024-05-23,,Authorization Required,Neurology,Texas,657.0,90+ Days,1
+C2173,P3173,UnitedHealth,2907,0,Pending,2024-06-24,,,Radiology,Illinois,625.0,90+ Days,0
+C2174,P3174,Cigna,2314,0,Denied,2024-06-13,,Coding Error,Neurology,California,636.0,90+ Days,1
+C2175,P3175,UnitedHealth,2990,2825,Approved,2024-12-20,2025-01-07,,Neurology,Illinois,18.0,0-30 Days,0
+C2176,P3176,Aetna,335,0,Pending,2024-12-10,,,Radiology,New York,456.0,90+ Days,0
+C2177,P3177,UnitedHealth,4305,0,Denied,2024-10-02,,Missing Documents,Neurology,Illinois,525.0,90+ Days,1
+C2178,P3178,Aetna,3946,0,Denied,2024-06-29,,Authorization Required,Radiology,Texas,620.0,90+ Days,1
+C2179,P3179,BlueCross,1751,0,Denied,2024-12-22,,Missing Documents,Emergency,New York,444.0,90+ Days,1
+C2180,P3180,Aetna,1880,1686,Approved,2024-04-23,2024-05-04,,Neurology,California,11.0,0-30 Days,0
+C2181,P3181,Cigna,1037,0,Denied,2024-11-16,,Coding Error,Emergency,Florida,480.0,90+ Days,1
+C2182,P3182,UnitedHealth,3273,3272,Approved,2024-09-09,2024-10-02,,Orthopedics,New York,23.0,0-30 Days,0
+C2183,P3183,UnitedHealth,2572,2431,Approved,2024-09-09,2024-09-29,,Neurology,Texas,20.0,0-30 Days,0
+C2184,P3184,UnitedHealth,4929,4739,Approved,2024-10-28,2024-11-15,,Radiology,Illinois,18.0,0-30 Days,0
+C2185,P3185,Aetna,4968,0,Pending,2024-09-24,,,Orthopedics,California,533.0,90+ Days,0
+C2186,P3186,Cigna,4665,4549,Approved,2024-12-14,2025-01-28,,Orthopedics,Texas,45.0,31-60 Days,0
+C2187,P3187,Aetna,2946,2915,Approved,2024-07-27,2024-08-23,,Neurology,Texas,27.0,0-30 Days,0
+C2188,P3188,BlueCross,3261,3249,Approved,2024-01-23,2024-02-16,,Neurology,New York,24.0,0-30 Days,0
+C2189,P3189,Cigna,3977,3892,Approved,2024-07-19,2024-08-10,,Neurology,Illinois,22.0,0-30 Days,0
+C2190,P3190,Aetna,2148,0,Pending,2024-08-04,,,Radiology,Texas,584.0,90+ Days,0
+C2191,P3191,Aetna,1647,1640,Approved,2024-02-02,2024-02-18,,Orthopedics,Florida,16.0,0-30 Days,0
+C2192,P3192,Humana,3038,0,Denied,2024-05-06,,Missing Documents,Neurology,Texas,674.0,90+ Days,1
+C2193,P3193,Humana,745,0,Denied,2024-09-23,,Coverage Issue,Orthopedics,California,534.0,90+ Days,1
+C2194,P3194,Aetna,3892,0,Denied,2024-11-16,,Authorization Required,Radiology,Illinois,480.0,90+ Days,1
+C2195,P3195,BlueCross,797,0,Pending,2024-07-12,,,Cardiology,Texas,607.0,90+ Days,0
+C2196,P3196,Cigna,807,0,Pending,2024-08-14,,,Cardiology,Florida,574.0,90+ Days,0
+C2197,P3197,Aetna,3837,3694,Approved,2024-12-12,2024-12-25,,Emergency,Illinois,13.0,0-30 Days,0
+C2198,P3198,Aetna,3590,3437,Approved,2024-07-29,2024-08-22,,Emergency,New York,24.0,0-30 Days,0
+C2199,P3199,BlueCross,3445,3359,Approved,2024-08-07,2024-08-23,,Cardiology,New York,16.0,0-30 Days,0
