@@ -9,4 +9,4 @@ df.to_csv("healthcare_claims_dataset.csv", index=False)
 
 # Convert dates
 df['Submission_Date'] = pd.to_datetime(df['Submission_Date'])
-print("Data Cleaning Completed")
+print("Data Cleaning Completed successfully")
